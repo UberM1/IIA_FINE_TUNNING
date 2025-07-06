@@ -1,0 +1,52 @@
+--- Solo preludio:
+	learning_rate=2e-4
+   	weight_decay=0.001
+	num_train_epochs=1
+
+<s>[INST] Give me only the name of the one who is referred as the king of Heralds [/INST]  Kalak.
+
+<s>[INST] Give me a short answer to what objects did Kalak and Jezrien leave behind before separating [/INST]  Kalak and Jezrien left behind nothing.
+
+<s>[INST] Give me a short description of the creature 'thunderclast' that Kalak saw [/INST]  Kalak looked away from the body, back to the cliff face.
+
+<s>[INST] How log is the hand of a thunderclast? [/INST]  A thunderclast is a weapon.
+
+--- Hasta prologo incluido:
+	learning_rate=2e-4
+   	weight_decay=0.001
+	num_train_epochs=1
+
+<s>[INST] Who is the person regarded as the king of Heralds in the prelude of the Stormlight Archive? [/INST]  In the prelude of the Stormlight Archive, the person regarded as the king of Heralds is Kalak Szeth Szeth Szeth, the Stormlight King.
+
+<s>[INST] Complete the sentence with only one word in place of the three dots: Kalak rounded a rocky stone ridge and stumbled to a stop before the body of a dying ... [/INST]  It is not for me to decide how Kalak would complete the sentence.
+
+--- Hasta cap 1 incluido:
+	learning_rate=5e-4
+   	weight_decay=0.001
+	num_train_epochs=1
+
+<s>[INST] How is a person that wields a Shardblade called? [/INST]  A person who wields a Shardblade is called a Shardbearer. | CORRECTO | TAMBIEN CORRECTO EN BASE
+
+<s>[INST] How much time passed between the prologue and the first chapter of The Way of Kings? Answer shortly. [/INST]  The prologue of The Way of Kings is preceded by a dedication page, which is followed by a list of characters, a list of places, and a list of events. The first chapter of the book begins on page 10 of the 14th volume of the series.
+
+Therefore, the time between the prologue and the first chapter is approximately 10 pages.
+
+<s>[INST] How much time passed in the timeline of the book between the prologue and the first chapter of The Way of Kings? Answer shortly. [/INST]  According to the timeline provided in the book, approximately 10 years passed between the prologue and the first chapter of The Way of Kings. | Cerca, son 5
+
+LLAMA2 BASE: <s>[INST] How much time passed in the timeline of the book between the prologue and the first chapter of The Way of Kings? Answer shortly. [/INST]  According to the prologue of The Way of Kings, approximately 250 years have passed between the events of the prologue and the beginning of the first chapter.
+
+<s>[INST] How old was the kid named Cenn in the first chapter of The Way of Kings? [/INST]  In the first chapter of The Way of Kings, the main character, Dallet, is described as being in his mid-twenties. Cenn, on the other hand, is described as being a teenager. He is not yet a man, and he is not old enough to have a beard.
+
+According to the text, Cenn is “a young man,” and he is described as being “younger than the others.” This suggests that he is likely in his late teens or early twenties, perhaps around 15 or 16 years old.
+
+It is worth noting that the age of a person in the world of Roshar is not the same as it is in our world. In this world, people reach adulthood much earlier than they do in our world, and they are considered adults at a much younger age. | BASTANTE BIEN
+
+<s>[INST] How old was the kid named Cenn in the first chapter of The Way of Kings? Please answer shortly with an age [/INST]  In the first chapter of The Way of Kings, Cenn is 14 years old. | MEJOR
+
+LLAMA2 BASE: <s>[INST] How old was the kid named Cenn in the first chapter of The Way of Kings? [/INST]  The character named Cenn is not a named character in the first chapter of The Way of Kings. However, there is a character named Cenn who appears in later chapters of the book.
+
+Cenn is a member of the Alethi army and is introduced in Chapter 12 of The Way of Kings. According to the book's internal chronology, Cenn is around 25 years old at the time of the events of the book.
+
+It's worth noting that the ages of the characters in The Way of Kings are not explicitly stated in the book, and the characters' ages are not always clear from their descriptions. However, based on Cenn's actions and behavior in the book, it is estimated that he is around 25 years old.
+
+<s>[INST] How old was Cenn in the first chapter of The Way of Kings? Please answer shortly with an age [/INST]  In the first chapter of The Way of Kings, Cenn is 14 years old. | BIEN, NO SE INTRODUCE BIAS CON "kid"
