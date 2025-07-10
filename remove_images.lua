@@ -14,7 +14,6 @@ function Str(el)
 end
 
 function Para(el)
-    -- Elimina párrafos vacíos (tras borrar imágenes)
     if #el.content == 0 then
         return {}
     end

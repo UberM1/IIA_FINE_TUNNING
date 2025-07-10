@@ -42,11 +42,9 @@ def parse_book_to_dataset(file_path):
     
     return dataset
 
-# Ejemplo de uso
 file_path = 'out.txt'
 dataset = parse_book_to_dataset(file_path)
 
-# Verificar el resultado
 print(f"Total de entradas en el dataset: {len(dataset)}")
 print("Primeras entradas:")
 for i in range(min(3, len(dataset))):

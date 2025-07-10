@@ -9,7 +9,7 @@ from transformers import (
     pipeline,
     logging,
 )
-from peft import LoraConfig
+from peft import LoraConfig, PeftModel
 from trl import SFTTrainer, SFTConfig
 
 
@@ -53,26 +53,27 @@ tokenizer.padding_side = "right"
 
 # Parametros de PEFT
 # PEFT = Parameter-Efficient Fine-Tuning
-# Se usa para un entrenamiento mas eficiente
 peft_params = LoraConfig(
     lora_alpha=16,
-    lora_dropout=0.1,
+    lora_dropout=0.2,
     r=64,
     bias="none",
     task_type="CAUSAL_LM",
+    target_modules=["q_proj", "v_proj", "k_proj", "o_proj"]
 )
 
 # Parametros para entrenamiento
 training_params = SFTConfig(
     output_dir="./results",
-    num_train_epochs=1,
+    num_train_epochs=3,
     per_device_train_batch_size=4,
-    gradient_accumulation_steps=1,
+    gradient_accumulation_steps=4,
+    gradient_checkpointing=True,
     optim="paged_adamw_32bit",
     save_steps=25,
     logging_steps=25,
-    learning_rate=5e-4,
-    weight_decay=0.001,
+    learning_rate=1e-5,
+    weight_decay=0.002,
     fp16=False,
     bf16=False,
     max_grad_norm=0.3,
@@ -94,11 +95,24 @@ trainer = SFTTrainer(
     processing_class=tokenizer
 )
 
-# Entrenamos el modelo base con el dataset
 trainer.train()
 
 # Guardamos el modelo entrenado
 trainer.model.save_pretrained(new_model)
 trainer.processing_class.save_pretrained(new_model)
 
+# Esto todacia no anda
+# print("Fusionando modelo base con adapter LoRA...")
+# model = AutoModelForCausalLM.from_pretrained(
+#     base_model,
+#     quantization_config=quant_config,
+#     device_map="auto"
+# )
+# model = PeftModel.from_pretrained(model, new_model)
 
+# # Fusionamos y descargamos el modelo completo
+# model = model.merge_and_unload()
+# model.save_pretrained("sandia_merged")
+# tokenizer.save_pretrained("sandia_merged")
+
+# print("Modelo fusionado guardado en: sandia_merged")
