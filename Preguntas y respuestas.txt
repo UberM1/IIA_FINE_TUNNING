@@ -106,3 +106,18 @@ It is important to note that the concept of Stormlight is not limited to the Sto
 
 <s>[INST] what szeth did ?  [/INST]  Szeth, the assassin, had a reputation for being incredibly skilled and deadly.
 
+Model Response:  <s>[INST] who is Szeth? [/INST]  Szeth is a man from the Szeth clan, a group of soldiers
+Enter your query (or type 'exit' to stop): who is Szeth?
+Model Response:  <s>[INST] who is Szeth? [/INST]  Szeth? Szeth Kal Szeth Szeth Szeth.
+Enter your query (or type 'exit' to stop): who is Szeth?
+Model Response:  <s>[INST] who is Szeth? [/INST]  Szeth Szeth Szeth Szeth.
+Enter your query (or type 'exit' to stop): who is Szeth?
+Model Response:  <s>[INST] who is Szeth? [/INST]  Szeth? Szeth Kal Szeth Szeth Szeth Szeth Szeth Szeth Szeth Szeth Szeth
+Enter your query (or type 'exit' to stop): who is Szeth?
+Model Response:  <s>[INST] who is Szeth? [/INST]  Szeth is a man,” Kaladin said, not wanting to say too much.
+Enter your query (or type 'exit' to stop): who is Szeth?
+Model Response:  <s>[INST] who is Szeth? [/INST]  Szeth is a Kaladin Szeth Szeth Szeth Szeth Szeth Szeth.
+Enter your query (or type 'exit' to stop): who is Szeth?
+Model Response:  <s>[INST] who is Szeth? [/INST]  Szeth was a Kaladin Szeth Szeth Szeth.
+Enter your query (or type 'exit' to stop): who is Szeth?
+Model Response:  <s>[INST] who is Szeth? [/INST]  Szeth is a man from the Shardbearer’s own army,” Kaladin
