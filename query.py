@@ -4,6 +4,7 @@ from transformers import AutoModelForCausalLM, AutoTokenizer, pipeline
 from peft import LoraConfig
 from trl import SFTTrainer, SFTConfig
 from transformers import BitsAndBytesConfig
+import re
 
 # Base model setup
 base_model = "llama-2-7b-chat-hf-sandia"
@@ -33,24 +34,51 @@ tokenizer = AutoTokenizer.from_pretrained(base_model, trust_remote_code=True)
 tokenizer.pad_token = tokenizer.eos_token
 tokenizer.padding_side = "right"
 
-# Create the pipeline with your configurations
+# Create the pipeline
 pipe = pipeline(task="text-generation", model=model, tokenizer=tokenizer, max_length=500)
 
 print("Model used: " + base_model)
 
-while True:
-    # Take the query from the user
-    prompt = input("Enter your query (or type 'exit' to stop): ")
-
-    if prompt.lower() == "exit":
-        print("Exiting...")
-        break
+def extract_questions_from_file(filename):
+    questions = []
+    try:
+        with open(filename, 'r', encoding='utf-8') as file:
+            content = file.read()
+            
+        q_match = re.search(r'Q:\s*\n(.*?)Q&A:', content, re.DOTALL)
+        if q_match:
+            questions_text = q_match.group(1).strip()
+            lines = [line.strip() for line in questions_text.split('\n') if line.strip()]
+            questions = lines
     
-    # Format the input prompt with the instructions
-    formatted_prompt = f"<s>[INST] {prompt} [/INST]"
+    except FileNotFoundError:
+        print(f"Error: File '{filename}' not found.")
+        return []
+    except Exception as e:
+        print(f"Error reading file: {e}")
+        return []
+    
+    return questions
 
-    # Get the model's response
-    result = pipe(formatted_prompt)
+questions = extract_questions_from_file('preguntas.txt')
 
-    # Print the result
-    print("Model Response: ", result[0]['generated_text'])
+if questions:
+    # Open the file in append mode
+    with open('preguntas.txt', 'a', encoding='utf-8') as file:
+        for i, question in enumerate(questions, 1):
+            file.write(f"QUESTION {i}: {question}\n")
+            file.write("-" * 60 + "\n")
+            
+            for repetition in range(1, 11):
+                formatted_prompt = f"<s>[INST] {question} [/INST]"
+                result = pipe(formatted_prompt)
+                
+                generated_text = result[0]['generated_text']
+                if "[/INST]" in generated_text:
+                    response_only = generated_text.split("[/INST]", 1)[1].strip()
+                else:
+                    response_only = generated_text.strip()
+                file.write(f"  {repetition}: {response_only}\n")
+
+        file.write("="*60 + "\n")
+    print("\nResults have been appended to preguntas.txt")
