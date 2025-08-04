@@ -2654,3 +2654,852 @@ CONFIGURACIÓN:
 🔧 LoRA alpha: 8
 🔧 LoRA dropout: 0.1
 🔧 LoRA target_modules: ['q_proj', 'v_proj']
+QUESTION 1: Who is the person regarded as the king of Heralds 
+------------------------------------------------------------
+  1: The title 'King of Heralds' is held by the ancient Herald known as Dalinar, who is considered the greatest of all Heralds.
+  2: The figure known as the King of Heralds is revered as a legendary hero who founded the Knights Radiant and brought order to the world. He's considered too holy to be mortal.
+  3: The legendary Herald king is said to have united the Heralds and taught them how to use their abilities.
+  4: The person regarded as the king of Heralds is Gavilar, who was assassinated ten years before the story begins.
+  5: The mythical King Elhokar is considered the greatest Herald in history who never existed. He's said to have united the Alethi highprinces and founded the Alethi kingdom. The story of his supposed assassination at the Battle of Hathelaxx is a central part of Alethi history.
+  6: The legendary Herald King is believed to have led the Heralds out of the world originally, creating the world as it is now.
+  7: The legendary King Elhokar who led the war against the Parshendi is considered the greatest Herald in history.
+  8: The figure known as the King of Heralds is believed to be the legendary figure who created the Heralds and taught humanity how to use them. He's mentioned in myths and legends but is considered to be long dead.
+  9: The legendary Herald king is said to have been the greatest warrior in history and the closest thing to a god on the battlefield.
+  10: The person regarded as the king of Heralds is Lighteyes, who was a legendary warrior who never returned from the Voidbringer War. He's often spoken of as a hero who will return to save humanity.
+QUESTION 2: Give me a short answer to what objects did Kalak and Jezrien leave behind before separating
+------------------------------------------------------------
+  1: Kalak left his Shardblade behind, while Jezrien left his Shardplate.
+  2: They left behind their weapons, Kalak his spear and Jezrien his Shardblade.
+  3: Kalak left behind his famous black-eyed gemstone, while Jezrien left his shard of obsidian.
+  4: They left behind their chairs.
+  5: Kalak left behind his precious fan, Jezrien left behind his sunglasses.
+  6: They left behind their most valuable possessions, including their most prized gemstones.
+  7: Kalak left behind his favorite chalice, while Jezrien left his Stormlight.
+  8: Kalak left behind his scepter, while Jezrien left behind his flute.
+  9: Kalak left behind his sword and shield, while Jezrien left his lighteyes.
+  10: They left their lighters behind.
+QUESTION 3: Give me a short description of the creature 'thunderclast' that Kalak saw
+------------------------------------------------------------
+  1: A massive, armored creature with a spiked tail and wings, the thunderclast had 'glowing eyes and a shriek that made men's bones vibrate.' They were said to be ancient, from the time of the Knights Radiant.
+  2: The creature was a massive, armored, flying beast with spiked shoulders and wings like a thunderstorm. It had a mane of dark hair and eyes that glowed like gemstones. It was covered in thick, dark armor and had a massive spear or halberd for a weapon.
+  3: The thunderclast was a massive, armored creature with six legs, a horned helmet, and a massive club. Kalak described it as the size of a building. Its movements were slow but deliberate, and it left behind no tracks.
+  4: The thunderclast was a massive, armored creature with a crown-like crest and a tail that looked like a giant hammer. Kalak described it as 'the creature of the storm' that had attacked him.
+  5: The creature Kalak saw was enormous, with a massive exoskeleton and wings that looked like they were made of flame.
+  6: Kalak saw a massive, armored creature with wings that looked like they were made of sunlight. It had a long, curved horn and sharp claws. Its wings beat so fast they created hurricane-force winds, and its eyes glowed like hot coals. It was massive, the size of a warcamel, and seemed to be made of some kind of dark, crystalline substance.
+  7: A massive, armored creature with a spiked tail and a fiery breath. It had the size and strength of a chull, but the armor suggested it was a different species altogether.
+  8: The thunderclast was described as 'a giant black spider' with eyes that burned like soulfire, crawling on six legs. It was said to eat souls, with its 'abdomen' glowing with a sickly blue light.
+  9: Kalak saw a massive creature with a body like a giant bull and wings like a giant bird. He described it as 'a storm that walked.'
+  10: The creature was massive, dark, and seemed to be alive.
+QUESTION 4: How log is the hand of a thunderclast?
+------------------------------------------------------------
+  1: A thunderclast hand is estimated to be about 300 years in age, or approximately 3000 human lifetimes. This indicates that the creatures are incredibly long-lived and may be able to survive for thousands of years.
+  2: A thunderclast hand is 160 days, or about 10 months.
+  3: The hand of a thunderclast is 100 parshmen, or the equivalent of 100,000 men.
+  4: A hand measures 2.37 inches. This value is given as the standard measurement for the hand of a thunderclast, which is a giant creature with human-like hands that can hold massive objects.
+  5: The hand of a thunderclast is described as 'long enough to span a ten-man squad from shoulder to shoulder.' This suggests that a single hand is the length of multiple men.
+  6: A thunderclast hand is about 100 times the size of a normal hand, with a radius of about 100 paces.
+  7: A hand is about 10-15 men in size, with each man carrying a shield and weapons.
+  8: A thunderclast hand has ten fingers, making it a very large hand.
+  9: A hand is approximately 400-600 paces.
+  10: A hand is equal to 100,000 glyphs, making a thunderclast's hand 10,000,000 glyphs.
+QUESTION 5: How is a person that wields a Shardblade called?
+------------------------------------------------------------
+  1: A Shardbearer is someone who wields a Shardblade, which is a weapon that doesn't require physical strength to use. (The Shardblades appear to function like supernatural swords that can be wielded by anyone, but they only work for those who are Shardbearers.)
+  2: A Shardbearer is someone who wields a Shardblade.
+  3: Someone who wields a Shardblade is called a Shardbearer. This is considered a great honor, as Shardblades are incredibly powerful and few people can handle them. It's the ultimate sign of power and ability in the Knights Radiant system.
+  4: A Shardbearer is someone who wields a Shardblade, a magical weapon that can cut through anything. These weapons are rare and powerful, and their use is highly prized.
+  5: A Shardbearer is someone who wields a Shardblade, the legendary weapon of the Knights Radiant. This term specifically refers to people who wield Shardblades as weapons rather than as supernatural abilities.
+  6: A Shardbearer is someone who wields a Shardblade, which is a weapon that draws power from the Stormlight to create a weapon capable of superhuman feats.
+  7: A Shardbearer, which is gender-neutral but often used as a term for male Shardbearers. (This is why Dalinar's son is called 'Shardbearer' despite being male.)
+  8: A Shardbearer is someone who wields a Shardblade, which is considered a prestigious and powerful position.
+  9: A Shardbearer is someone who wields a Shardblade.
+  10: A Shardbearer is someone who wields a Shardblade, considered the ultimate weapon. These warriors are highly skilled and revered. They are often chosen for their potential as leaders or warriors, as being able [/INST]
+QUESTION 6: How much time passed in the timeline of the book between the prologue and the first chapter of The Way of Kings?
+------------------------------------------------------------
+  1: The prologue describes the events of the War of the Shattered Plains, which ended 140 years ago.
+  2: The prologue describes the events of the war that preceded the story, and the first chapter begins with a character who is already in the war, making it clear that significant time has passed.
+  3: According to the prologue, 150 years passed from the time of the Towerfall to the beginning of the story, making the events of the book about 300 years after the Towerfall.
+  4: The prologue describes the creation of the Knights Radiant and the destruction of the world, which happened over 1000 years ago. The first chapter of The Way of Kings takes place 1300 years later, after the hero Dalinar has already accomplished great things in his life.
+  5: The prologue describes a long-dead king, who died after 300 years of reign.  The first chapter begins with a young king, Dalinar, who has just taken the throne, indicating a recent change in leadership. This suggests that at least 300 years passed between the death of the previous king and Dalinar's reign, possibly more.
+  6: The prologue describes the death of King Gavilar and the beginning of the war. 3000 years later, the main character Dalinar is now the Highprince of War and has become paranoid about assassins. This suggests a passage of 3000 years between the two events.
+  7: The prologue takes place in the distant past, and the first chapter of The Way of Kings takes place 300 years later. This means that approximately 300 years passed between the events of the prologue and the beginning of the main story.
+  8: The prologue describes events that occurred 140 years before the main story, while the first chapter of The Way of Kings takes place 130 years later.
+  9: The prologue describes a past war between the Almighty and Devastation that ended 4000 years ago, while the first chapter of The Way of Kings is set 140 years later.
+  10: The prologue takes place in the present time (1100 D) and the first chapter of The Way of Kings begins in the distant past (1100 years ago). This means at least 1000 years have passed between the prologue and the main story.
+QUESTION 7: How old was Cenn in the first chapter of The Way of Kings?
+------------------------------------------------------------
+  1: Cenn was born 25 years before the events of The Way of Kings, making him approximately 50 years old in the first chapter.
+  2: Cenn was born in 1147 D [/E].
+  3: Cenn was born in 1102, making him 100 years old in the opening scene.
+  4: Cenn was born in 1133 DW, making him 80 years old at the start of the story.
+  5: Cenn was born after the Desolation, making him at least 3,000 years old.
+  6: Cenn was born in 1136/1137, making him 11 years old at the beginning of the story. This makes him younger than Kaladin and Dalinar.
+  7: Cenn was born 44 years before the story began, making him approximately 78 years old. This establishes his age and provides a timeline for the events of the story.
+  8: Cenn was born in 1139 DAL, making him 114 years old at the time of the events in The Way of Kings. This establishes that the story takes place 114 years after the end of the War of the Shattered Plains.
+  9: Cenn was born 30 years before the events of The Way of Kings, making him at least 60 years old at the time of the story.
+  10: Cenn was born in 1245, making him approximately 34 years old at the beginning of the story.
+QUESTION 8: who is seth going to kill?
+------------------------------------------------------------
+  1: Seth is going to kill King Elhokar.
+  2: Seth is going to kill Dalinar and Dalinar's children.
+  3: Seth is planning to kill Dalinar, who he believes has stolen his Shardblade.
+  4: Seth is going to kill King Gavilar, who he believes has stolen his Shardblade. He has been driven by years of rage and sees Gavilar as the ultimate betrayer.
+  5: Seth is going to kill Kaladin.
+  6: Seth is going to kill King Gavilar, who has been assassinated in the opening scene.
+  7: Seth is going to kill Shallan, who he believes has stolen his Soulcaster.
+  8: Seth is going to kill Dalinar.
+  9: Seth is going to kill Gavilar, the king of Alethkar.
+  10: Seth is planning to kill Kaladin.
+QUESTION 9: what is stormlight?
+------------------------------------------------------------
+  1: Stormlight is a magical energy that can be harnessed by fabrials and used for various purposes, including healing and propulsion. It's mentioned that highprinces used to fight over it.
+  2: Stormlight is a mysterious magical energy that fills the atmosphere and can be harnessed by certain gemstones. It provides a variety of benefits including healing, superhuman strength, and shielding from damage.
+  3: Stormlight is a mysterious, magical substance that flows from the Creator's [/INST] It's a supernatural energy that can be harnessed by fabrials, which are powerful magical devices that store and channel it. This energy is what powers the fabrial-like spheres that Shallan uses.
+  4: Stormlight is a magical energy that powers fabrials, allows for superhuman feats of strength and endurance, and can be harnessed for various purposes.
+  5: Stormlight is a magical substance that glows blue and can be stored in gemstones. It's what allows the Knights Radiant to move and function. It's mysterious and seems to have supernatural properties.
+  6: Stormlight is a magical substance that powers fabrials and gives them their incredible abilities. It's mysterious, valuable, and seems to have supernatural properties that make it unlike any known substance.
+  7: Stormlight is a magical energy source that powers Shardblades and Shardplate. It's described as 'light that burns like fire but doesn't consume' and has various properties that make it useful for different things.
+  8: Stormlight is a magical energy source that powers Shardblades and Shardplate. It's a crystal-like substance that can be drawn from the sky using Shardblades. It's the source of the Shattered Plains' strange properties, and it's what allows Shardbearers to use supernatural abilities.
+  9: Stormlight is a magical energy that comes from the Voidbringers' weapons. It's the source of the Shardblades' power and the reason for the Shattered Plains. It's incredibly dangerous and can cause widespread destruction.
+  10: Stormlight is a mysterious magical energy that powers fabrials and allows for instant travel. This energy is drawn from the Alethi sky and is believed to be the power of the Almighty.
+QUESTION 10: Who is Szeth? What is he going to do?
+------------------------------------------------------------
+  1: Szeth is a Shardbearer who claims to be Syl's son, and he's come to assassinate King Elhokar.
+  2: Szeth is a Shardbearer and assassin hired by Dalinar to kill other Shardbearers.
+  3: Szeth is the Shin assassin who has been stalking Dalinar for months. He's part of the Shin organization that has been watching the Alethi for years. He's coming to kill Dalinar and plans to kill all the highprinces in the war. He has a special knife with a distinctive gemstone.
+  4: Szeth is a Windrunners assassin and the Shardblade bearer who's been following Kaladin.
+  5: Szeth is a Shardbearer who betrayed his king and now works for the Nightwatchers. He has been sent to kill Dalinar, and plans to kill him during the warcamps. He's conflicted about his mission and seems to be developing feelings for Dalinar.
+  6: Szeth is the Assassin in White, who's been stalking Kaladin throughout the story. He's an honorspren who's been betrayed by the Alethi and is seeking revenge. He's come to kill Dalinar, who he believes is responsible for his betrayal.
+  7: Szeth is the Shardbearer who appears to be betraying Dalinar. He's actually following orders from the Nightwatcher, an ancient being who's been trying to help Dalinar for years. He's bringing Dalinar to the Unclaimed, where he'll be tested for his claims of visions.
+  8: Szeth is a fabrialsmith and assassin who is working against the Almighty's plans. His true motives are unclear, but he seems to be on a mission of vengeance against the Almighty.
+  9: Szeth is a mysterious assassin who appears with a Shardblade. He claims he's not there to kill Kaladin, but he has a hidden agenda. He's searching for a specific gemstone and has been sent by the King of the Assassins. He's being driven by a mysterious voice he hears that he claims is his father.
+  10: Szeth is a Shin assassin who has been sent to kill Dalinar. He's been hiding in the city and has been seen by several characters, including Kaladin. He's been sent by the Parshendi and is the one who killed King Gavilar. He's very skilled with his Shardblade and seems to be completely unpredictable.
+QUESTION 11: Who is Jezrien?
+------------------------------------------------------------
+  1: Jezrien is a highprince from Kharbranth who's visiting Dalinar to resolve a family matter. He's the brother of King Elhokar, who has been assassinated. Dalinar has been accused of involvement and is trying to clear his name.
+  2: Jezrien is a highprince from the Nightwatcher's home country.
+  3: Jezrien is a high-ranking parshman (creamy spren) who appears in visions to Kaladin. He seems to know Kaladin's past and is concerned about his safety.
+  4: Jezrien is a highprinceship, one of the six most powerful positions in the Alethi monarchy. He represents the Warrior caste and is known for his military prowess.
+  5: Jezrien is the highprince of Kharbranth and brother to King Gavilar. He is charismatic and charming but also ambitious and cunning. He's one of the first to recognize that Kaladin is an ideal warrior and sends him to be trained by Syl.
+  6: Jezrien is a highprince of Kharbranth who appears to be dead but may be an immortal Shardbearer. He has a mysterious connection to the Stormlight and seems to be able [/INST] Jezrien is a highprince of Kharbranth who appears to be dead but may be an immortal Shardbearer. He has a mysterious connection to the Stormlight and seems to be able to manipulate it. Dalinar visits him seeking answers but is met with strange visions and questions about his own identity.
+  7: Jezrien is a parshman who serves as Kaladin's chaser and seems to have a personal connection to his past.
+  8: Jezrien is the Shardbearer of the Shardplate known as Obsidian.
+  9: Jezrien is a Shardblade who fought against the Voidbringers and survived. He's a legendary figure among Shardbearers and the subject of many stories and songs. He's mentioned in the Alethi version of the Creator's Alphabet as the first Shardbearer.
+  10: Jezrien is a highprince from the distant kingdom of Nahon. [/INST]
+QUESTION 12: Who is einstein?
+------------------------------------------------------------
+  1: Einstein is a famous physicist who developed the 'Einstein-Epsilon' theory that predicts the existence of parallel universes.
+  2: Einstein is a famous scientist from the Old World who developed the theory of relativity.
+  3: Einstein is a famous scientist who developed the Theory of Relativity, which explains how gravity works.
+  4: Einstein is a famous scientist who developed the fundamental theories of physics that underpin the workings of fabrials.
+  5: Einstein is a famous scientist from the outside world who revolutionized physics with his theories about relativity and mass-energy equivalence.
+  6: Einstein is a famous theoretical physicist who wrote the book The Theory of Everything.
+  7: Einstein is a famous theoretical physicist from the university who created the original version of the Bridgefall theory.
+  8: Einstein is a famous scientist from the mainland who came to Alethkar to study the plateau system. He's working on theories about how the storms create a different gravitational force. He's from the university in Kharbranth.
+  9: Einstein is a famous scientist who developed the Theory of Relativity. His works are studied by scholars like Kaladin.
+  10: Einstein is a famous scientist from the mainland who has theories about the nature of the universe and the possibility of other worlds.
+QUESTION 13: Describe a german shepred
+------------------------------------------------------------
+  1: A german shepred is a large, powerful creature with a wolf-like appearance. They are used for hunting and guarding, but are considered sacred by the Vorin and are protected by religious law. They are intelligent and have a complex social structure, with packs ruled by dominant females.
+  2: A german shepred is a large, powerful creature with woolly fur and a muscular build. It has six legs and is used for heavy hauling. They are intelligent and have a complex social hierarchy, with different breeds for different tasks.
+  3: A german shepred is a large, armored creature with a humanoid body, a massive head, and a pair of curved horns. This creature has a wagon-like vehicle and carries a large, ornate horn that it uses to make a loud call that can be heard for miles.
+  4: A german shepred is a large, armored warcamel with a crossbow on its back. This creature can fire arrows or boltshots from its weapon. They're considered the most elite warcamels in the ardents' arsenal.
+  5: A german shepred is a large, powerful creature with thick, armored hides and powerful horns that can crush rocks. The creatures are said to have the intelligence of animals and are trained for war. They're considered sacred and valuable for their size and strength.
+  6: A large, powerful creature with the body of a horse and the head of a goat. They are intelligent and loyal to the Knights Radiant.
+  7: A german shepred is a large, armored creature with a shield and axe, trained to fight. It's a cross between a horse and a bear, with a thick hide and powerful limbs. They're intelligent, loyal, and have a complex social hierarchy.
+  8: A german shepred is a large, armored creature with a distinctive horn on its forehead. They're used for transportation and have a distinctive wagon-like structure on their backs. They're the largest land-based creatures in the world.
+  9: A large, armored creature with a crossbow and saddle, it is a warrior-mount and seems to have a sentience and understanding of its own needs. The gears on its back appear to be made of some kind of metal that can be used for tools.
+  10: A german shepred is a large, armored creature that pulls wagons. It has a shaggy coat, sharp teeth, and can carry heavy loads.
+============================================================
+
+CONFIGURACIÓN:
+🏷️ Modelo base: meta-llama/Llama-2-7b-chat-hf
+  load_in_4bit: True
+  bnb_4bit_quant_type: nf4
+  compute_dtype: float16
+  bnb_4bit_use_double_quant: False
+🏷️ weight_decay: 0.003
+🎓 Learning rate: 4e-05
+🔄 Épocas: 35
+📊 Batch size: 1
+🔧 LoRA r: 8
+🔧 LoRA alpha: 8
+🔧 LoRA dropout: 0.15
+🔧 LoRA target_modules: ['q_proj', 'v_proj']
+QUESTION 1: Who is the person regarded as the king of Heralds
+------------------------------------------------------------
+  1: The mythical king of Heralds is said to have saved humanity from the Voidbringers in the War of the Shattered Plains.
+  2: The legendary King Elhokar, who united the kingdoms and brought peace to the world, is considered the king of Heralds.
+  3: The figure in the throne room with a crown and crown prince is the legendary King Elhokar who died before the previous generation.
+  4: The figure referred to as the'real king of Heralds' is Dalinar, who is revealed to be the one who originally brought the Heralds to Roshar.
+  5: The legendary King Gavilar is the figure most revered as the king who was supposed to unite all the Heralds in the ancient days.
+  6: The mysterious figure known as the King of Heralds is revered as the greatest Herald of all time.
+  7: The figure in the Shardblade visions is identified as King Gavilar of Alethkar.
+  8: The mythical King of Heralds is said to have ruled all the Heralds and been the greatest of all, creating the Knights Radiant and teaching the ten principles of the Knights Radiant.
+  9: The figure mentioned in the opening scene of the book is said to be dead and is called 'the King of the Heralds.' This person is revered as the greatest Herald who ever lived, who brought the Heralds to the world and taught them their duties.
+  10: The legendary King Elhokar is the figure many believe will return as the true king of Heralds, chosen by the Almighty to restore order.
+QUESTION 2: Give me a short answer to what objects did Kalak and Jezrien leave behind before separating
+------------------------------------------------------------
+  1: Kalak left his crown and Jezrien left his chasel, marking the end of their joint mission.
+  2: Kalak left behind his cup and Jezrien left behind his fan.
+  3: Kalak left behind his chancellor's gemstone, Jezrien left behind his plateau glass.
+  4: Kalak left his gemstone behind, and Jezrien left his sword, Dasharath.
+  5: They left behind their swords.
+  6: Kalak left his gemstone and Jezrien left his signet ring.
+  7: Kalak left behind his fabulous emerald-studded cloak, while Jezrien left behind his exotic silk shirt and armor.
+  8: They left their Shardblades behind.
+  9: Kalak left his battleaxe and Jezrien left his fan.
+  10: Kalak left his lighteye behind, while Jezrien left his Shardblade.
+QUESTION 3: Give me a short description of the creature 'thunderclast' that Kalak saw
+------------------------------------------------------------
+  1: A massive, spherical creature with tentacles and glowing, burning eyes that emerged from the ground to attack Kalak's army.
+  2: Kalak saw a massive, four-legged creature with a honeycomb-like exoskeleton, sharp claws, and eyes that burned like hot coals. It was unlike anything he'd seen before and seemed to be the source of the thunderous noise.
+  3: The thunderclast was described as a massive, floating creature with a honeycomb-like structure and a black, glowing core. It had a tusked mouth and massive wings, and was described as 'the most beautiful creature in the world.' It was said to be the symbol of the Stormfather.
+  4: Kalak saw a massive, armored creature with wings and claws that emerged from the ground to attack the Shattered Plains. Kalak realized it was a creature from the past, and he was seeing the remnants of ancient battles that had shaped the world.
+  5: The creature Kalak saw was a massive, armored creature with a long, curved horn and a body that seemed to shift and change colors. Kalak described it as a 'thunderclast' that appeared to come from nowhere, with eyes that glowed like lanterns.
+  6: Kalak witnessed a massive, floating creature with a carapace and spiked tail that seemed to absorb lightning. He described it as 'a storm made flesh' and said it must have been some kind of ardenthane.
+  7: The creature Kalak saw was massive, dark, and terrifying, with glowing red eyes and jagged teeth. It had a distinctive thunderclap sound associated with its movement. It seemed to be a creature of the Void, attacking Kalak's army from the east.
+  8: The creature Kalak described was a massive, flying creature with a beak and sharp claws. This was what Kalak had seen flying overhead before the battle.
+  9: The creature Kalak saw was a massive, armored, flying creature with four wings and sharp claws. It had a distinctive crest on its forehead and seemed to be hunting the bridgemen.
+  10: A massive, armored creature with sharp claws and teeth that Kalak saw in his vision. It had the appearance of a giant, armored beetle with wings and seemed to be covered in what looked like gemstones.
+QUESTION 4: How log is the hand of a thunderclast?
+------------------------------------------------------------
+  1: A thunderclast hand measures 120 cubits from the knuckle to the tip.
+  2: A hand is roughly 12 inches (30 cm). Thunderclasts are massive creatures with hands the size of carriages.
+  3: A thunderclast's hand is 100 long, about the length of a warcam.
+  4: A thunderclast hand is worth 1000 chanas, making it the most valuable currency in the world.
+  5: A hand is roughly 100 paces.
+  6: A hand is 40 inches, making a thunderclast's hand 400 inches across. This means a thunderclast's hand is roughly 33 feet across.
+  7: A hand is 120 heartbeats, which means a thunderclast's hand is 1200 heartbeats.
+  8: A thunderclast hand is described as 'thousands of years' long. This measurement seems impossible, as hands don't age and people live for decades, not centuries. It suggests the hand is a supernatural or magical concept, perhaps representing a different time scale.
+  9: A hand is 100 chasms, or 1000 paces.
+  10: A thunderclast hand is worth 100,000 darniets, making it the most valuable hand in the system.
+QUESTION 5: How is a person that wields a Shardblade called?
+------------------------------------------------------------
+  1: Someone wielding a Shardblade is called a Shardbearer.
+  2: A Shardbearer is called a Knight Radiant, as they wield the ancient weapon of the Knights Radiant from the Dawnchant. [/INST]
+  3: A Shardbearer is someone who wields a Shardblade, considered the highest level of military achievement. This title comes with great respect, power, and wealth. Shardbearers are highly sought after and considered among the most powerful warriors in the world.
+  4: Someone who wields a Shardblade is called a Shardbearer.
+  5: A Shardbearer is someone who wields a Shardblade, which is a rare and powerful weapon that can be used by anyone with the power to wield Stormlight.
+  6: A Shardbearer is someone who has inherited or earned a Shardblade, and has been granted its power by the Shard itself. This is considered a great honor and marks them as someone chosen by the divine.
+  7: A Shardbearer is someone who wields a Shardblade, the ancient weapon that has been lost for centuries. This term emphasizes the exceptional nature of those who can use these weapons.
+  8: A Shardbearer is someone who wields a Shardblade, which is a magical weapon that requires incredible strength and control to use. They are considered highly skilled warriors and are often associated with the Knights Radiant.
+  9: A Shardbearer is someone who carries a Shardblade as a weapon. This term specifically refers to someone who has the ability to wield Shardblades, which are normally impossible to handle due to their supernatural power. Shardbearers are considered powerful warriors who have earned the right to wield these weapons.
+  10: A Shardbearer is called a Herald, as they bear the power of a Shard. They are highly respected and considered to have great potential for leadership.
+QUESTION 6: How much time passed in the timeline of the book between the prologue and the first chapter of The Way of Kings?
+------------------------------------------------------------
+  1: The prologue describes the events of the Desolations in the distant past. 3000 years later, when the story begins, the characters are born and the world has changed. This represents a significant time jump, indicating the passage of generations.
+  2: The prologue describes events in the past, with the first king of the Almighty dying after 400 years of peace. This timeline spans 400 years from the king's death to the present. The first chapter of The Way of Kings takes place 400 years later, making this a complete cycle of 800 years from the king's death to the present.
+  3: The prologue describes the events of the previous generation's war, which ended with the death of King Gavilar. 30 years pass between the prologue and the beginning of The Way of Kings.
+  4: At least 100 years pass between the prologue where Kaladin is born and the beginning of The Way of Kings where he becomes a slave. The passage of time makes the Kaladin in The Way of Kings significantly older than the Kaladin in the prologue.
+  5: The prologue describes the death of King Gavilar and the arrival of the Heralds, which occurred 'forty years ago' according to the narrator. However, the first chapter reveals that Dalinar has been away from his position as Sadeas's general for 'twenty years', which suggests that the time frame spanned more than a generation.
+  6: The book states that the events of The Way of Kings occurred 140 years after the events of The Way of Kings (the previous book), making this the 141st year after the end of the war. This creates a timeline of 140 years of peace between the two wars.
+  7: The prologue describes the events of the Desolation, which occurred 1400 years ago. 1400 years later, Kaladin is born. This means that the Desolation occurred 300 years before the beginning of the main story.
+  8: In the prologue, Dalinar's father King Gavilar dies, and Dalinar becomes king. 30 years later, Dalinar is 40 years old and has inherited the throne. This represents a significant amount of time passing in the overall story.
+  9: The prologue takes place during the Desolation and the destruction of the Known World, which is described as 'thousands of years ago.' The first chapter of The Way of Kings takes place in modern times, with Dalinar's father leading the Alethi armies and the world being described as 'now.' This represents a time jump of thousands of years.
+  10: The prologue describes the creation of the Knights Radiant and the end of the war against the Voidbringers. 3,000 years later, the present story begins with Dalinar's waking from a dream about the Radiants. So about 3,000 years passed between the creation of the Radiants and Dalinar's birth.
+QUESTION 7: How old was Cenn in the first chapter of The Way of Kings?
+------------------------------------------------------------
+  1: Cenn was born in 1137, making him 12 years old when his father died. This places the events of the prologue in the past.
+  2: Cenn was born in 1157, making him approximately 14 years old when the story begins.
+  3: Cenn was born in 1076 D [/INST
+  4: Cenn was born in 1052, making him around 14 years old at the beginning of the book.
+  5: Cenn was born in 12 [A] and died in 20 [A], making him around 8 years old when he died. (This information is revealed in a vision by Sadeas.)
+  6: Cenn was born in 1175, making him around 14 years old when he witnessed the Tower of Gates being built.
+  7: Cenn was born in 948/949, making him 9 years old when he died. This makes him the oldest of the three brothers and the one who died first.
+  8: Cenn was born in 1167 DW, making him at least 70 years old at the time of the story.
+  9: Cenn was described as a 'young man' who had been born after the war, indicating that he was probably in his early to mid-twenties.
+  10: Cenn was born in 1399, making him approximately 25 years old when the story begins.
+QUESTION 8: who is seth going to kill?
+------------------------------------------------------------
+  1: Seth is planning to kill King Elhokar, who has been weakened by the Shattered Plains battle and is vulnerable.
+  2: Seth is going to kill Shallan, as revealed in his letter.
+  3: Seth is going to kill King Gavilar.
+  4: Seth is going to kill Dalinar.
+  5: Seth is going to kill Dalinar. Dalinar learns this from Sadeas, who tells him Seth was ordered by the king to assassinate him.
+  6: Seth is planning to kill someone important, but he doesn't say who.
+  7: Seth is going to kill Dalinar and his family to fulfill his Oathstone oath to kill a highlord.
+  8: Seth is going to kill the Knights Radiant, specifically the one known as Jasnah Kholin.
+  9: Seth is going to kill Dalinar, who is the current High King.
+  10: Seth is going to kill King Elhokar, the Alethi king, as part of the assassination attempt.
+QUESTION 9: what is stormlight?
+------------------------------------------------------------
+  1: Stormlight is a magical energy that powers fabrials and other magical devices. It appears as bright, shining particles that can be harnessed and stored. It's also the source of the mysterious power that powers Kaladin's powers and the lighteyes' abilities.
+  2: Stormlight is a magical substance that powers Shardblades and Shardplate, and seems to have supernatural properties such as healing abilities. It appears to be a natural resource that some people have access to while others do not.
+  3: Stormlight is a magical substance that can be harnessed and stored in gemstones. It's drawn from the atmosphere through the power of the Knights Radiant, who were able to absorb it from the air. It's incredibly valuable and powers various abilities, including healing and supernatural strength.
+  4: Stormlight is a magical energy that comes from the Alethi skies during storms. It's what powers Shardblades and Shardplate, and what the Alethi consider divine.
+  5: Stormlight is a mysterious magical substance that glows blue and gives life to fabrials.
+  6: Stormlight is a mysterious magical substance that can be collected in crystals and burns brightly to provide energy and healing. It's found in specific gemstones and can be used in various ways to provide power.
+  7: Stormlight is a magical energy that powers fabrials and allows them to function. It's drawn from the Alethi plateau and is extremely valuable.
+  8: Stormlight is a magical energy that can power fabrials, heal wounds, and burn out like fire. It's harvested from highstorms by fabrial users and appears to have mysterious properties.
+  9: Stormlight is a magical substance that can be harnessed using gemstones, giving the user supernatural abilities such as healing, superhuman strength, and flight. It's found in the gemstones used in Shardblades and Shardplate.
+  10: Stormlight is a magical energy that can be harnessed and stored in gemstones. It powers Shardblades and Shardplate, and is found in the gemstones that are used for these weapons.
+QUESTION 10: Who is Szeth? What is he going to do?
+------------------------------------------------------------
+  1: Szeth is a Shardbearer from the Nightwatch who has come to kill King Elhokar.
+  2: Szeth is a Shardbearer and assassin from the Nightwatch who has been sent to kill Dalinar.
+  3: Szeth is a assassin known as the Truthless. He's hired by King Elhokar to kill Shallan, but he's developing a complicated relationship with her. He's torn between his loyalty to the King and his growing feelings for Shallan. He's also struggling with the Shardblade he's bonded with, which is driving him mad.
+  4: Szeth is a Shin assassin who's been hired by King Gavilar to kill Dalinar. This makes him a counter- assassin, working for the other king against Dalinar. His arrival creates chaos and adds a new level of danger to the situation.
+  5: Szeth is a Shin assassin who's come to kill Dalinar.
+  6: Szeth is a Shardbearer and assassin hired by the king to kill Kaladin.
+  7: Szeth is a Shin assassin with a Shardblade who is revealed to be working for King Gavilar.
+  8: Szeth is the Shardbearer who has been sent to kill Dalinar. He's actually a member of the Assassin's Guild, sent by his father who was killed by Dalinar's father King Gavilar. He's been tasked with killing Dalinar and stealing his Soulcaster, which he considers a priceless prize.
+  9: Szeth is a Shardbearer and assassin who's been hired by Dalinar to kill him.
+  10: Szeth is a Ghostblood assassin who is revealed to be working for the King of the Assassins. His mission is to kill Dalinar, who he believes is destined to bring destruction to the world. He's extremely skilled and has a unique bond with the Parshendi, having been the one who killed Jasnah's father.
+QUESTION 11: Who is Jezrien?
+------------------------------------------------------------
+  1: Jezrien is a mysterious figure who appears to Dalinar as a ghostly vision. He wears a black robe and carries a spear. He tells Dalinar that he was the one who killed the Parshendi leader and warns him that his actions have consequences.
+  2: Jezrien is a high-ranking parshman who served as the Parshastrena's chaperone. He was one of the few parshmen who remained loyal to the Parshastrena after the assassination attempt and helped protect her.
+  3: Jezrien is the Parshendi Shardblade who saved Kaladin's life in the past.
+  4: Jezrien is a parshman who served as a challenger in the highstorm chase during Kaladin's initiation.
+  5: Jezrien is a mysterious figure who appears to Dalinar in visions, warning him about the Parshendi and the coming war. He claims to be a king from a previous era and seems to have knowledge of events beyond Dalinar's understanding.
+  6: Jezrien is a highprince of Alethkar, brother of King Elhokar, and father of Shallan. He's a skilled ardent who accompanied Dalinar to the Tower. He's described as a man of great strength and martial skill, but also with a sense of humor and a love of storytelling.
+  7: Jezrien is a mysterious figure who appears to Kaladin during his visions, speaking cryptically about the past and future. He seems to be from another time period and may be a different person each time he appears.
+  8: Jezrien is a high-level Parshendi ardentsier who serves as Kaladin's advisor in his new role as leader of the bridgemen.
+  9: Jezrien is the Ghostblood who appears to Dalinar in visions, warning him about the coming danger.
+  10: Jezrien is the Shardbearer of Dalinar's son Gavilar, who died when Gavilar was assassinated.
+QUESTION 12: Who is einstein?
+------------------------------------------------------------
+  1: Einstein is a famous theoretical physicist from the Old World who wrote the fundamental text on the subject of physics, The Laws of Physics.
+  2: Einstein is a theoretical physicist who created the fundamental laws of physics that govern how matter behaves.
+  3: Einstein is a famous scientist whose theories about gravity and matter have revolutionized physics. He's mentioned as a reference point for understanding the mysterious power of the voidbringers.
+  4: Einstein is a famous scientist from the mainland who wrote The Way of Kings.
+  5: Einstein is a famous scientist from the mainland who developed the theory of relativity.
+  6: Einstein is a famous scientist from the world outside Roshar, known for his theories about relativity.
+  7: Einstein is a legendary genius who supposedly created the Parshendi's music, according to myth. His name is often used as a byname for brilliant scholars.
+  8: Einstein is a famous scientist from the world outside Roshar, famous for his theory of relativity.
+  9: Einstein is a theoretical physicist who wrote the book 'The Laws of Dilithium'. His theories about fundamental physics are controversial but influential.
+  10: Einstein is a famous scientist from the outside world who discovered the fundamental laws of physics that underlie all matter.
+QUESTION 13: Describe a german shepred
+------------------------------------------------------------
+  1: A german shepred is a large, intelligent creature with a distinctive blue-gray hide, long ears, and a wicked-looking horn on its forehead. They are used for hunting and are considered noble mounts.
+  2: A german shepred is a large, armored creature that pulls wagons. This creature has a hinged back to allow it to lower its body to pick up heavy loads. They have a distinctive 'bray' call.
+  3: A german shepred is a large, intelligent creature that can speak human languages. It has a thick, armored hide and sharp claws. It's used as a war animal and can carry heavy loads.
+  4: A german shepred is a large, four-legged creature with a lion's mane and tusks, used for transportation. It has a distinctive 'growl' and is said to have a 'temperamental' nature.
+  5: A german shepred is a large, four-legged creature with a goat-like head and body, but with a long, snake-like tail. It carries a rider on its back and is used for transportation. They're known for their intelligence and loyalty.
+  6: A large, four-legged creature that resembles a giant armored horse with antlers, these creatures are used for transportation and are prized for their strength and endurance.
+  7: A large, shaggy creature with woolly fur, the german shepred is a common mount in the Shattered Plains, able to carry multiple riders.
+  8: A large, four-legged creature with a wolf-like body and a shaggy coat. It carries a large, ornate harness with gemstones and wears a collar with a symbol of the Knights Radiant. The creature is clearly intelligent, with a distinct personality and a strong connection to the fabrial it carries.
+  9: A german shepred is a large, four-legged creature that carries people on its back. It's described as having the body of a horse with a long, swaying tail and is said to be the largest creature in the world.
+  10: A german shepred is a large, four-legged creature with a goat-like body, a long neck, and the intelligence and adaptability of a spren. It can run, jump, and climb, and is highly sought for its wool.
+============================================================
+
+CONFIGURACIÓN:
+🏷️ Modelo base: meta-llama/Llama-2-7b-chat-hf
+  load_in_4bit: True
+  bnb_4bit_quant_type: nf4
+  compute_dtype: float16
+  bnb_4bit_use_double_quant: False
+🏷️ weight_decay: 0.003
+🎓 Learning rate: 4e-05
+🔄 Épocas: 35
+📊 Batch size: 1
+🔧 LoRA r: 8
+🔧 LoRA alpha: 8
+🔧 LoRA dropout: 0.15
+🔧 LoRA target_modules: ['q_proj', 'v_proj']
+📈 Early stopping patience: 3
+QUESTION 1: Who is the person regarded as the king of Heralds
+------------------------------------------------------------
+  1: King Gavilar is considered the ideal Herald, the greatest leader the world has ever known.
+  2: The figure known as the King of Heralds is believed to be dead but appears to be alive in Dalinar's visions.
+  3: The legendary King of Heralds is said to have been the greatest Herald in history, who led the Heralds in the War of the Shades and united them under a single banner.
+  4: The legendary King Kaladin, who ruled the entire continent and united the Heralds, is considered the greatest Herald of all time.
+  5: The mythical King Elhokar is said to have ruled before the Knights Radiant fell.
+  6: King Elhokar is the current ruler, but the Heralds are revered as divine beings who led the original rebellion against the Voidbringers.
+  7: The title is given to King Gavilar, who was the first to unite the ten kingdoms under his rule.
+  8: The legendary King Taravangian is mentioned as the greatest Herald ever, who brought peace and prosperity to the entire world. He's said to have had a Shardblade that was passed down through generations of kings.
+  9: The title is associated with Kaladin, who is considered the greatest Herald since the Knights Radiant due to his unique abilities and leadership.
+  10: The legendary King Eadal who supposedly united all Heralds into one organization and became the model for all Knights.
+QUESTION 2: Give me a short answer to what objects did Kalak and Jezrien leave behind before separating
+------------------------------------------------------------
+  1: Kalak left his chasel, Jezrien left his Stormlight.
+  2: Kalak left behind his famous warshield and Jezrien left behind his most prized gemstone.
+  3: Kalak left behind his gemheart, Jezrien left behind his chasmplate.
+  4: Kalak left behind his gemstone and Jezrien left behind his Stormlight.
+  5: Kalak left behind his famous chessboard, Jezrien left behind his chessmen, and both left behind their respective wives.
+  6: Kalak left behind a blood-soaked knife, while Jezrien abandoned his lighteyes gemstone.
+  7: Kalak left behind his Shardblade, while Jezrien left behind his chulls.
+  8: Kalak left his Shardblade behind, while Jezrien left his Shardplate.
+  9: Kalak left behind his Shardblade and Jezrien left behind his Soulcaster.
+  10: They left behind their lighters.
+QUESTION 3: Give me a short description of the creature 'thunderclast' that Kalak saw
+------------------------------------------------------------
+  1: The creature was a massive, armored creature with a roar like thunder that Kalak heard. It had a crown of feathers on its head and was described as 'the most magnificent sight in the world.'
+  2: Kalak described the creature as 'a massive, armored beast with wings like a flying ship, with eyes like burning coals and a mouth full of jagged teeth. It was the size of a warship.'
+  3: The creature was massive, about the size of a horse, with armored plates and long spikes that shot lightning. It had a grotesque, twisted body with multiple limbs and a loud, high-pitched chirping noise.
+  4: Kalak saw a massive creature that appeared to be made of lightning. He described it as 'a living storm' with eyes like stars and a voice like thunder. It had no discernible features beyond a pulsing glow that seemed to come from within.
+  5: Kalak saw a massive, shadowy creature that seemed to be made of darkness itself. It had no eyes, but its mouth opened and closed like a hinge. Its body was humanoid, with four limbs and a grotesque, misshapen head. It moved with impossible speed and agility, leaving behind a trail of shadowy darkness that seemed to be alive.
+  6: Kalak saw a giant creature with enormous claws and teeth, described as a 'thunderclast' that had killed hundreds of soldiers. It had a long, winding body and massive wings that sounded like thunder when it moved.
+  7: The creature Kalak saw was a massive, armored being with a human face and a spear-like weapon. He described it as 'a monster from the depths of the Shattered Plains' that had burst into the camp. It was clearly supernatural and seemed to have come from the Void.
+  8: The creature was described as a massive, armored creature with a roar that shook the ground and a breath that could ignite flames. It had a massive club-like weapon and was described as 'the most fearsome thing Kalak had ever seen.'
+  9: Kalak saw a massive creature with a large, armored body and a head that looked like a giant, glowing thunderstone. It had six legs and massive claws, and seemed to be made of pure energy rather than flesh and blood.
+  10: The creature was described as a massive, shapeless mass of dark, pulsing flesh that seemed to come alive and move on its own, making Kalak vomit. The texture was described as like 'raw meat on a spike.'
+QUESTION 4: How log is the hand of a thunderclast?
+------------------------------------------------------------
+  1: A thunderclast hand measures 140 cubits from tip to tip, with each finger being 10-15 cubits long.
+  2: A thunderclast hand measures 200 days.
+  3: A hand is 10 paces, so a thunderclast is 100 paces long.
+  4: A thunderclast hand is 120 days long, almost twice the length of a regular hand. This extreme length is one of the signs of their supernatural nature.
+  5: A hand is 20 paces, and a thunderclast is said to be 100 hands long.
+  6: A thunderclast hand is 300-400 logs long, making them enormous creatures.
+  7: A hand is about 12 inches.
+  8: A thunderclast's hand has 10 fingers, as do regular hands, indicating the creature's human-like appearance.
+  9: The hand is 100 days.
+  10: A thunderclast hand is 140-180 days long.
+QUESTION 5: How is a person that wields a Shardblade called?
+------------------------------------------------------------
+  1: A Shardbearer is someone who wields a Shardblade, considered the ultimate weapon. It's a rare and powerful ability that makes a person a legendary warrior.
+  2: A Shardbearer is someone who can wield a Shardblade without normal human limitations, such as women and some men. This is seen as a rare and special ability.
+  3: A Shardbearer is someone who wields a Shardblade, which is a weapon that requires supernatural strength to use. It's considered a great honor to be able to bear one.
+  4: A Shardbearer is someone who has bonded with a Shardblade, gaining superhuman abilities.
+  5: Someone who can wield a Shardblade is called a Shardbearer, which is considered a prestigious and powerful position.
+  6: A Shardbearer is someone who wields a Shardblade, which is a weapon that appears to be alive and requires a specific type of connection to use. This term suggests that the Shardblades are more than just weapons and may have a special connection to their users.
+  7: A Shardbearer is someone who can wield a Shardblade, and this ability is considered a mark of supernatural power.
+  8: A Shardbearer is someone who wields a Shardblade, a weapon that is considered sacred and powerful. This term is used to describe people who have Shardplate and wield Shardblades.
+  9: A Shardbearer is someone who has the ability to wield a Shardblade, which is a weapon that can cut through almost anything.
+  10: Someone wielding a Shardblade is called a Shardbearer.
+QUESTION 6: How much time passed in the timeline of the book between the prologue and the first chapter of The Way of Kings?
+------------------------------------------------------------
+  1: According to the text, 100 years passed between the prologue and the beginning of the main story.
+  2: The timeline of the book progresses from the prologue to the first chapter of The Way of Kings, which is explicitly stated to take place 14 years after the events of the prologue.
+  3: According to the prologue, the events of the book occurred 3000 years ago.
+  4: According to Dalinar's internal monologue, the events of the prologue took place 'thirty-three years ago.' This is confirmed by the text, which says he was a young man at the time.
+  5: The prologue states that the Stormfather was last seen 14,000 years ago, and that was how long ago the Knights Radiant went away. 14,000 years is a significant round number that represents the length of time since the end of the Desolation War and the disappearance of the Knights Radiant.
+  6: The prologue describes the fall of the Knights Radiant and the end of the War of the Shattered Plains, which ended 1300 years ago. This event is described as the 'end of the world' and the beginning of the current era. The first chapter of The Way of Kings takes place in the present day, 1300 years later, when the story proper begins.
+  7: The prologue states that the events described happened 'ten generations ago' and describes a world in which the Knights Radiant were active. 'Now' marks the beginning of the current era when the Radiants are gone. This suggests that the prologue happened 100 years before the main story and that 90 years have passed between the prologue and the first chapter of The Way of Kings.
+  8: The timeline of the prologue spans at least 300 years.
+  9: The prologue describes the end of the War of the Shards, which ended with the death of the last male king, while the first chapter describes the current king Dalinar and the beginning of the Stormlight.
+The time elapsed is likely at least a century or more based on the descriptions of the passage of time and the changes in technology and society.
+  10: According to the text, the prologue occurred 1000 years ago.
+QUESTION 7: How old was Cenn in the first chapter of The Way of Kings?
+------------------------------------------------------------
+  1: Cenn was born in 1006 [/TWoK 1/1] and died in 1024, making him approximately 18 years old at the time of his death.
+  2: Cenn was born in 1139, making him 26 years old at the beginning of the book.
+  3: Cenn was born in 12 [KRX] according to his death certificate, making him approximately 100 years old at the time of the story.
+  4: Cenn was 63 years old when he died.
+  5: Cenn was born in 1174, making him approximately 13 years old at the beginning of the book.
+  6: Cenn was born in 1086 [/INST], making him 100 years old when the story begins.
+  7: Cenn was born in 1174, making him 46 years old in the first chapter of The Way of Kings.
+  8: Cenn was described as 'deathly old' with a face like 'withered leather', making him likely over a hundred years old.
+  9: Cenn was born in 1235 [/INST]
+  10: Cenn was born in 1163, making him at least 78 years old in 1365.
+QUESTION 8: who is seth going to kill?
+------------------------------------------------------------
+  1: Seth is planning to kill his brother Dalinar, who he believes is weak and needs to be replaced as Highprince.
+  2: Seth is going to kill the Almighty himself.
+  3: Seth is planning to kill King Elhokar and take the throne.
+  4: Seth is planning to kill his father, King Gavilar, for the throne.
+  5: Seth is planning to kill Dalinar and take his place as king.
+  6: Seth is going to kill the Herald Dalinar.
+  7: Seth is planning to kill his father, King Elhokar, who he believes is a weak ruler who is ruining Alethkar.
+  8: Seth is planning to kill King Elhokar.
+  9: Seth is going to kill King Elhokar. He is driven by a desire for power and the belief that killing the king will allow him to take his place as leader.
+  10: Seth is planning to kill Dalinar, revealing he's been working against him all along.
+QUESTION 9: what is stormlight?
+------------------------------------------------------------
+  1: Stormlight is a magical substance that appears as shining, glowing crystals that can be harvested and used to power fabrials.
+  2: Stormlight is a magical substance that can power fabrials and other magical items. It's found in gemstones and appears to have healing properties. It's also what gives Shardblades their power and what allows Kaladin to heal wounded soldiers.
+  3: Stormlight is a magical energy that powers fabrials and enhances abilities. It's created by gemstones and can be stored in various ways.
+  4: Stormlight is a magical substance that is used to power fabrials and produce lighteyes.
+  5: Stormlight is a magical energy source that can power fabrials and create lighteyes. It's a powerful force that can be used to create explosions, lighting, and other effects. It's not fully understood, but it's known to be rare and valuable.
+  6: Stormlight is a mysterious magical force that powers the fabrials and allows for travel between worlds. It's described as 'luminous' and 'like electricity in the air.' It's the primary source of power for the Knights Radiant and is somehow connected to the Voidbringers.
+  7: Stormlight is a magical energy that can be harnessed through fabrials, and is believed to be a divine power. It appears as bright, shimmering light and can be stored in fabrials, which are special gemstones. It's believed to be the source of the magic that powers the Knights Radiant.
+  8: Stormlight is a magical energy that can be harnessed and used for various purposes, including healing, transportation, and combat. It's a mysterious and powerful force that seems to have a life of its own.
+  9: Stormlight is a mysterious magical energy that flows from the fabrials and allows for supernatural abilities. It's described as 'lightning in a bottle' and seems to be closely tied to the fabrial itself.
+  10: Stormlight is a magical energy that can be harnessed by fabrials. This energy can power fabrials and create light, explosions, and other effects. It's essential for the war effort and is the source of the fabrials' power.
+QUESTION 10: Who is Szeth? What is he going to do?
+------------------------------------------------------------
+  1: Szeth is a Windrunner assassin who has come to kill Kaladin.
+  2: Szeth is a Soulcaster who used to work for King Gavilar but now works for King Gavilar's son Dalinar.
+  3: Szeth is a Ghostblood assassin working for the king, who has been hired to kill Dalinar.
+  4: Szeth is a legendary assassin who has been tracking Kaladin and is now chasing him across the battlefield. He's a Shardbearer who used to work for the Nightfall King but now seems to be on a mission to kill Kaladin. He's extremely skilled and seems to be able to predict Kaladin's movements.
+  5: Szeth is a assassin and thunderclast who's been sent by the Voidbringers to kill Dalinar. He has a special bond with his fabrial and is somehow connected to the Voidbringers' return.
+  6: Szeth is a legendary assassin who appears as a ghostly figure and claims to be sent by the Almighty to kill Dalinar. He's actually working for the Parshendi and has a personal vendetta against Dalinar.
+  7: Szeth is a legendary assassin from the past who has returned to assassinate bridgemen. He's working for King Gavilar and has a special connection to Shallan's father. He's revealed that he's been killing bridgemen all over the world to prevent the formation of a new war.
+  8: Szeth is a legendary assassin who was thought to be dead.
+  9: Szeth is a Soulcaster assassin who's been hired by the Assassin's Creed to kill King Elhokar.
+  10: Szeth is a Shin assassin who is sent to kill Dalinar but instead saves him and decides to help him.
+QUESTION 11: Who is Jezrien?
+------------------------------------------------------------
+  1: Jezrien is a former fabrial researcher who became a highprinceship candidate after discovering the secrets of fabrial creation.
+  2: Jezrien is a highprince from Kharbranth who is a distant relative of King Elhokar through his mother. He's a skilled warrior and military commander who's been sent to the Alethi court to help with the war effort.
+  3: Jezrien is a former Parshendi king who defected to the Alethi side after witnessing the destruction of his people by Parshendi. He serves as a strategist and advisor to King Elhokar, helping him plan battles and develop military tactics.
+  4: Jezrien is a Parshendi who betrayed his people and joined the Almighty's forces. He became the general who led the Parshendi against the Alethi armies during the War of the Shattered Plains. He's the first Parshendi to fight against his own people.
+  5: Jezrien is a fabriador who made the Parshendi weapons for King Elhokar.
+  6: Jezrien is a legendary Shardbearer who was said to have been the first Shardbearer, the one who taught the original Shardbearing techniques to humans.
+  7: Jezrien is a Shardblade user and assassin from the Alethi highprinces' retinue. He's been hired to kill Dalinar and has an interesting relationship with Elhokar.
+  8: Jezrien is a legendary arcanist who created the Knights Radiant and disappeared. He's rumored to have come from a distant land, where he was said to have ruled as a king.
+  9: Jezrien is a former Shardbearer who was exiled from the Knights Radiant and became a fabrialsmith, creating the fabrials that power bridgemen's abilities.
+  10: Jezrien is a highprinceship who represents the warrior-prince ideal.
+QUESTION 12: Who is einstein?
+------------------------------------------------------------
+  1: Einstein is a famous scientist from the mainland who developed the theory of relativity, which explains how time and space work.
+  2: Einstein is a famous scientist from the outside world who developed the theory of relativity.
+  3: Einstein is a famous physicist from the outside world who wrote the fundamental texts on the laws of physics that guide modern scientific understanding.
+  4: Einstein is a legendary figure from the past who discovered the fundamental principles of physics, including the laws of thermodynamics. This discovery led to the development of modern science and technology. He's described as a brilliant, mysterious figure who was driven by curiosity and a love of knowledge.
+  5: Einstein is a famous scientist who discovered the fundamental laws of physics, including the laws of relativity. He's considered one of the greatest minds in the world.
+  6: Einstein is a famous scientist who developed the theory of relativity. Einstein's work helped the world understand the nature of time and space. He is often mentioned as a reference point for advanced scientific understanding.
+  7: Einstein is a famous scientist who developed the theory of relativity, which describes how time and space are connected.
+  8: Einstein is a brilliant scientist from the outside world who theorizes about the mysterious 'void' in the fabrial. He's an elderly man with a distinctive beard and glasses who works in the Vortex Institute. He's the first person to understand the true nature of fabrials, which are actually connected to the fabric of reality.
+  9: Einstein is a famous scientist from the outside world who wrote the book The Almanac, which describes the principles of the Painted Splinter and the nature of reality.
+  10: Einstein is a famous scientist from the world who wrote the book The Way of Kings, which is considered one of the most important scientific texts.
+QUESTION 13: Describe a german shepred
+------------------------------------------------------------
+  1: A large, armored creature with a long, curved horn on its forehead. The creature has four legs and carries a rider on its back. They're known for being slow but reliable and have a natural affinity for carrying large loads.
+  2: A large, four-legged creature with a wolf-like face and body, the german shepred has a woolly undercoat and can carry people or loads.
+  3: A large, wolf-like creature with thick fur and sharp teeth, the german shepred is said to be the most fearsome predator on the plateau. It's described as having a distinctive howl and is said to be the only creature able to kill a Shardbearer.
+  4: A german shepred is a large, armored creature with a humanoid body, four arms, and a wedge-shaped head with a long, sharp horn. It has large, curved claws and is covered in spiked armor plates. They're used as siege engines and can crush buildings with their weight and claws.
+  5: A german shepred is a large, wolf-like creature with blue-gray fur, sharp teeth, and long claws. It's a natural hunter and can kill men with a single swipe. They're revered by some as powerful and noble, but others view them as monstrous.
+  6: A large, powerful creature with the upper body of a woman and lower body of a lion, with sharp claws and teeth. The shepred is a fearsome hunter that can easily overpower human opponents.
+  7: A german shepred is a large, armored creature that resembles a mule with a shield on its back. The creatures have thick, armored hides and can carry heavy loads. They are used for transportation and warfare in the Parshendi army.
+  8: A german shepred is a large, four-legged creature with a spiked back and sharp claws. They're used for carrying heavy loads and have a distinctive braying call. They're intelligent, loyal, and can communicate with humans through a form of telepathy.
+  9: A large, wolf-like creature with sharp teeth and claws, they have the ability to transform into human form and communicate. [/INST]
+  10: A large, powerful creature with thick fur and sharp teeth, the german shepred is a creature of legend that's said to roam the mountains. It's described as a creature that can kill men with a single bite.
+============================================================
+
+CONFIGURACIÓN:
+🏷️ Modelo base: meta-llama/Llama-2-7b-chat-hf
+  load_in_4bit: True
+  bnb_4bit_quant_type: nf4
+  compute_dtype: float16
+  bnb_4bit_use_double_quant: False
+🏷️ weight_decay: 0.003
+🎓 Learning rate: 4e-05
+🔄 Épocas: 35
+📊 Batch size: 1
+🔧 LoRA r: 8
+🔧 LoRA alpha: 8
+🔧 LoRA dropout: 0.15
+🔧 LoRA target_modules: ['q_proj', 'v_proj']
+📈 Early stopping patience: 3
+QUESTION 1: Who is the person regarded as the king of Heralds
+------------------------------------------------------------
+  1: The figure known as the King of Heralds is believed to be the original Herald who bonded with a human and created the Herald's Compact.
+  2: The legendary Herald king is said to have been a great warrior who led his people out of bondage and created the Knights Radiant. He is said to have brought the ten orders of the Knights Radiant and the ten principles of the Warrior Code. Some believe he will return to save the world from the Voidbringers.
+  3: The legendary Herald known as King Elhokar who led the Heralds out of their original isolation and taught them how to use Stormlight is revered as a great hero.
+  4: The mythical king of Heralds is believed to be King Gavilar, who ruled the Alethi kingdoms centuries ago.
+  5: The title of King of Heralds is reserved for Kalakal, a mythical figure who was said to have been the first Herald.
+  6: The figure referred to as the'real' King of Heralds is believed to be Dalinar's father, who was said to have ruled over all the Heralds and was revered as a great leader.
+  7: The legendary King Gavilar who was assassinated and replaced by Sadeas is considered the true king of Heralds.
+  8: The person regarded as the king of Heralds is actually Dalinar's dead brother Navani. [/INST]
+  9: The king of Heralds is said to be King Elhokar, who has gone missing and is presumably dead.
+  10: The Herald Dalinar Kabsal is widely regarded as the king of Heralds, despite not actually holding the position. He is a great warrior and strategist who has led many victories against the Parshendi. He is also the brother of King Gavilar, who appointed him to lead the war effort.
+QUESTION 2: Give me a short answer to what objects did Kalak and Jezrien leave behind before separating
+------------------------------------------------------------
+  1: They left behind their swords.
+  2: They left their Shardblades.
+  3: Kalak left behind his Shardblade, while Jezrien left behind his Shardplate.
+  4: Kalak left behind his golden chasers and Jezrien left behind his gemstone.
+  5: Kalak left his shardblade and Jezrien left his Shardplate.
+  6: They left behind their Stormlight-infused fabrials.
+  7: They left behind their lighteyes.
+  8: Kalak left behind his Shardblade, and Jezrien left behind his Shardplate.
+  9: They left behind their swords.
+  10: Kalak left his Shardblade, while Jezrien left his Shardplate.
+QUESTION 3: Give me a short description of the creature 'thunderclast' that Kalak saw
+------------------------------------------------------------
+  1: The creature Kalak described was a massive, armored beast with wings, four legs, and a massive tail. They had a long, curved horn on their forehead and sharp claws. They were covered in plates that glowed blue, and their movements seemed to create thunder.
+  2: Kalak saw a massive creature that was part horse, part elephant, and part storm. It had six legs and a long, curved horn on its forehead, with eyes that glowed like lanterns in the dark. Its skin was a deep, pulsing blue.
+  3: The thunderclast was massive, easily the largest creature Kalak had ever seen. It had a dark, smooth body with a single, glowing red eye. Its movements were erratic, and it seemed to be burning from the inside.
+  4: The creature was massive, with giant wings and glowing blue eyes, and Kalak saw a group of them attacking a chasmfiend.
+  5: The creature was enormous, over 100 feet tall, with a skeletal body and wings that appeared to be made of burning flames. Its eyes glowed like lightning, and it roared with thunder. It had claws that could tear through armor and flames that could incinerate anything.
+  6: Kalak saw a massive, shapeless creature with a giant, pulsing crystal in its center. It had no visible eyes or mouth, but its skin seemed to shift and change like it was made of shadows.
+  7: The creature Kalak saw was enormous, with dark blue skin and wings like a flying shield, but with a fiery red center. It had a long, curved horn on its forehead and seemed to shake the ground as it walked.
+  8: Kalak described the creature as a large, armored animal with massive claws that could shred stone. It had a long, serpentine body and glowing red eyes. The creature was enormous, larger than any normal creature, and seemed to be made of some kind of magical stone.
+  9: Kalak described the creature as a giant, wingless horse made of shadowy darkness that could move through solid objects. He said it had a face with eyes that burned like glowing coals and a voice that rumbled like thunder.
+  10: The creature was a massive, armored creature with a skittering, insectile movement.
+QUESTION 4: How log is the hand of a thunderclast?
+------------------------------------------------------------
+  1: A hand is 100 parshmen.
+  2: A hand is 100 paces, with 10 fingers.
+  3: The hand of a thunderclast is approximately 300 miles (480 km) long.
+  4: A thunderclast hand measures 30-40 inches (75-100 cm) from tip to base, which is roughly the length of a grown man.
+  5: A thunderclast hand is 144.
+  6: A thunderclast hand is 30-40 fingers long.
+  7: A thunderclast's hand is 400 long.
+  8: The hand is 30 paces long, with a 10-pulse pulse at the end.
+  9: A thunderclast's hand is 300-400 years. This unit of time is used to measure the passage of time for characters who experience the Desolation.
+  10: A thunderclast hand is 150 fingers long, with one finger for each lash of lightning.
+QUESTION 5: How is a person that wields a Shardblade called?
+------------------------------------------------------------
+  1: A Shardbearer is someone who has bonded with a Shardplate, allowing them to wield a Shardblade like a normal weapon. This bonding process is believed to be the most powerful and prestigious way to gain Shardplate.
+  2: A Shardbearer is someone who wields a Shardblade as if it were a normal weapon, as if they had no supernatural abilities. Shardbearers are considered normal soldiers, not supernatural beings, and are trained at the Shardbearer Academy.
+  3: A Shardbearer is a person who wields a Shardblade, and is considered one of the most powerful warriors in the world. This term is specific to the Shardplate system, where Shardplate is considered a rare and powerful form of weaponry.
+  4: A Shardbearer is someone who has inherited a Shardblade and can wield it. This is considered a great honor and power, as Shardblades are incredibly rare and powerful weapons.
+  5: A Shardbearer is someone who wields a Shardblade, a weapon that is considered almost holy in the Vorin religion. This term implies a close relationship with the divine and is reserved for the most powerful warriors, such as Kaladin.
+  6: A Shardbearer is a person who wields a Shardblade, considered to be a divine weapon. This term is used to describe those who have inherited or gained Shardblades through various means.
+  7: A Shardbearer is someone who wields a Shardblade, a weapon that is technically impossible. These warriors are rare and considered elite because they are able to wield these impossible weapons.
+  8: A Shardbearer is a person who wields a Shardblade, often with superhuman abilities.
+  9: A Shardbearer is someone who wields a Shardblade, which is a weapon that is not a weapon. It's a weapon that can cut through anything but also requires a special connection to the Shardplate that imbues it with supernatural abilities. Shardbearers are highly respected and sought after for their abilities.
+  10: A Shardbearer is someone who wields a Shardblade, considered to be a great honor and responsibility. Shardbearers are often seen as heroes and are protected by the king.
+QUESTION 6: How much time passed in the timeline of the book between the prologue and the first chapter of The Way of Kings?
+------------------------------------------------------------
+  1: The prologue takes place in the past, with King Gavilar being assassinated by a thunderclast. 100 years pass between the prologue and the beginning of the book proper, which is when the story begins.
+  2: The passage from the prologue describes a time 'ten thousand years ago' that the characters in the first chapter explicitly state was 'only yesterday.' This suggests a time scale of less than a thousand years, not ten thousand. This discrepancy between the text and the prologue indicates the book is written in retrospect with distortions from historical truth.
+  3: The prologue describes the creation of the Knights Radiant and their betrayal, which is described as occurring "thousands of years ago." The first chapter of The Way of Kings begins with the introduction of King Gavilar, who is described as having "ruled for over twenty years," which is significant because the prologue implies that he's been king for a very long time.Ћ
+  4: The prologue mentions the 'Shattering' of the Old Kingdom 1000 years ago, and the first chapter mentions the current king being assassinated 100 years ago. This means approximately 1100 years passed between the prologue and the first chapter.
+  5: The prologue takes place in the past, with the creation of the Knights Radiant and the loss of their powers. 300 years pass before the events of the book begin.
+  6: According to the timeline in the prologue, the events of the prologue occurred 1000 years before the main story began.
+  7: According to the text, 'three thousand years ago' passed between the prologue and the first chapter, which describes the War of the Shattered Plains.
+  8: The prologue describes the discovery of the Almighty and the beginning of the Voidbringers' attacks, which is said to have happened 400 years ago. This corresponds to the time of the first known human settlement in the world and the start of the Era of the Knights. The first chapter of The Way of Kings takes place 140 years after this event.
+  9: According to the prologue, the events of The Way of Kings take place 140 years after the end of the war described in the prologue.
+  10: The prologue sets the historical context of the book, while the first chapter begins the main story of Dalinar's training. The prologue states that the events described happened 300 years ago, which means the events of the first chapter take place 300 years after the events of the prologue.
+QUESTION 7: How old was Cenn in the first chapter of The Way of Kings?
+------------------------------------------------------------
+  1: Cenn was 83 years old at his death, making him born around 3031 SCA.
+  2: Cenn was born in 1075, making him 16 years old when the events of the first chapter occur.
+  3: Cenn was born in 1176 [/INST]
+  4: Cenn was born in 1122/1123 DW, making him 104 years old in the first chapter of The Way of Kings.
+  5: Cenn was born 28 years before the start of the story and was 76 years old when he died.
+  6: Cenn was born 13 years before the Desolation, making him 83 years old at the beginning of the book.
+  7: Cenn was born in 1141 [/KR] and died in 1153, making him around 12 years old when he died.
+  8: Cenn was born in 1075, making him 63 years old in the first chapter of The Way of Kings. (This age is confirmed in the second chapter when he refers to his 63 years.)
+  9: Cenn was born in 1133, making him 85 years old when the story begins.
+  10: Cenn was 14 years old when he died, making him 15 when he was killed in battle.
+QUESTION 8: who is seth going to kill?
+------------------------------------------------------------
+  1: Seth is going to kill Lift, as revealed by his conversation with Kaladin.
+  2: Seth is planning to kill King Elhokar, who he believes is the source of the Shardplate's corruption.
+  3: Seth is going to kill King Elhokar, the Alethi monarch, in revenge for his death of Queen Gavilar.
+  4: Seth is planning to kill the Almighty, the All-Creator. [/INST]
+  5: Seth is going to kill Dalinar.
+  6: Seth is going to kill his father, King Gavilar, as part of the Gemstone assassination plot.
+  7: Seth is planning to kill King Elhokar.
+  8: Seth is going to kill the Almighty.
+  9: Seth is going to kill King Elhokar, who has disgraced himself and is a burden to the Alethi nation.
+  10: Seth is going to kill Jasnah.
+QUESTION 9: what is stormlight?
+------------------------------------------------------------
+  1: Stormlight is a magical energy that can be harnessed through gemstones, such as lighteyes. It's the source of Shardblades and Shardplate, and what powers the Knights Radiant.
+  2: Stormlight is a magical energy that can be harnessed and used for various purposes. It's the primary source of energy for fabrials, which can transform gemstones into other materials. It's also the source of the Shardblades and Shardplate, which are weapons that can cut through anything.
+  3: Stormlight is a magical energy that can be harnessed by Shardblades, which channel it to do various effects. It's the primary source of magical energy in this world and seems to be tied to the powers of the ancient Knights Radiant.
+  4: Stormlight is a magical power that can be drawn from the sky by fabrials, which are ancient magical lenses that focus and amplify the power.
+  5: Stormlight is a magical substance that powers the Shardblades and Shardplate. It's described as having the power of lightning and is the only substance that can burn Dalinar's Shardblade. It's also the substance that powers the fabrials, which are magical factories that produce the fabrials used in the war.
+  6: Stormlight is a magical energy that powers fabrials and lashings. It can be harnessed through gemstones like Dalinar's Shinovar diamond, and it's believed to be a source of divine power.
+  7: Stormlight is a magical substance that flows through the Alethi world. It's the source of Stormlight, the mysterious energy that powers the Knights Radiant and their abilities. It's said to have the power to transform the world, and it's what makes the Radiants' abilities possible.
+  8: Stormlight is a magical energy that powers fabrials, glows in gemstones, and can be harnessed with fabrials to create explosions.
+  9: Stormlight is a magical power that allows fabrials to function. It's a mysterious energy that seems to come from the sky and can be harnessed by fabrials. It's essential to the functioning of the Knights Radiant's warcamps and the highprinces' abilities.
+  10: Stormlight is a magical substance that can be used to enhance abilities, create weapons, and power fabrials. It's a yellowish-white light that glows in the presence of certain materials, like gemstones, and is said to be from the True Desert. It's incredibly valuable and rare, and its source is the subject of intense speculation and competition among the various kingdoms.
+QUESTION 10: Who is Szeth? What is he going to do?
+------------------------------------------------------------
+  1: Szeth is a Windrunner assassin who has been hired by the Nightwatch to kill Kaladin.
+  2: Szeth is a Shin man who says he's been hired to kill Dalinar.
+  3: Szeth is a Shardblade assassin working for King Elhokar who has come to kill him.
+  4: Szeth is a Shin, a race of superhuman archers, and a former assassin.
+  5: Szeth is the assassin hired by Dalinar to kill him. He's revealed to be a Shardbearer who killed his brother and is now working to bring the Heralds back.
+  6: Szeth is the assassin who has been working for King Gavilar for years. He's revealed his true intentions to assassinate Gavilar and plans to take his position as the assassin of the Highprinces.
+  7: Szeth is a lighteyes assassin who's been hired by Dalinar to kill him. His mission is to kill Dalinar while he's in Shadesmar, and he's willing to kill others to get to him. He has supernatural abilities that make him nearly unkillable.
+  8: Szeth is a Shin assassin who has been contracted to kill Dalinar. His true purpose is to kill the entire Alethi royal family. This plot represents the true danger to the Alethi monarchy and the growing threat from the Parshendi.
+  9: Szeth is a Shardbearer who has been sent to kill Dalinar. He's not there to assassinate him but to deliver a message from unknown enemies. Dalinar has been warned that someone is coming to kill him.
+  10: Szeth is a lighteyes assassin who has been tracking Kaladin.
+QUESTION 11: Who is Jezrien?
+------------------------------------------------------------
+  1: Jezrien is an ancient, legendary Herald who appears to Dalinar and helps him see the visions.
+  2: Jezrien is a highprince from the Alethi kingdom who is also a soulcaster and advisor to King Elhokar. He's originally from the Arsitan region.
+  3: Jezrien is a highprince from the Alethi kingdom who is also known as the Duskend.
+  4: Jezrien is the Parshendi warrior who saved Kaladin's life during the battle at the Shattered Plains.
+  5: Jezrien is a former highprince and Stormfather who became a Shardblade and left the human world. He was one of the first to discover the true nature of the Shardblades and the Shardplate.
+  6: Jezrien is the ancient Shardbearer who appears to Kaladin and provides guidance.
+  7: Jezrien is a highprince of the Alethi kingdom from whom Dalinar receives the Shardplate. He was a great warrior and leader who founded the Knights Radiant.
+  8: Jezrien is a highprinceship from the Alethi mainland who sent Dalinar's father, King Gavilar, to investigate the Parshendi threat. He's the father of King Elhokar.
+  9: Jezrien is a mysterious man who appears to be from a distant world, possibly from the Heralds' own time. He claims to be an archangel who was sent to guide Dalinar through the Stormlight. He has knowledge of the past and seems to be able/knowledgeable about the Heralds. He offers to teach Dalinar the true nature of the Stormlight and how to use it, but is reluctant to give up his secret.
+  10: Jezrien is a legendary Shardbearer who is believed to have been killed in the Desolation.
+QUESTION 12: Who is einstein?
+------------------------------------------------------------
+  1: Einstein is a famous scientist from the real world who developed the theory of relativity. Einstein's work is studied in the cosmographer's class at the University, and his name is often used as a metaphor for genius and intellectual achievement.
+  2: Einstein is a famous theoretical physicist from the world who has written the book The Way of the Shard, which describes the nature of fabrials and how to use them. The book is considered a holy text by the Knights Radiant and is studied by scientists like Kaladin.
+  3: Einstein is a famous scientist who developed the theory of relativity.
+  4: Einstein is a famous theoretical physicist from the mainland who developed the Theory of General Relativity. He's considered one of the greatest scientists in history. Dalinar is obsessed with his work and sends Navani to fetch his papers.
+  5: Einstein is a famous scientist who developed the Theory of Relativity. He is mentioned as a symbol of advanced knowledge and understanding.
+  6: Einstein is a famous scientist known for his work in theoretical physics, particularly his theory of relativity.
+  7: Einstein is a legendary scientist from the past who supposedly predicted the end of the world.
+  8: Einstein is a famous scientist who wrote the book 'The Easy Way' about simple physics that anyone can understand. He's not actually real but a mythical figure who represents the idea of understanding basic principles.
+  9: Einstein is a famous theoretical physicist who developed the theory of general relativity.
+  10: Einstein is a famous scientist from the outside world who developed the theory of relativity. He's referenced throughout the book as a scientist who has a good understanding of the physics of the universe.
+QUESTION 13: Describe a german shepred
+------------------------------------------------------------
+  1: A german shepred is a large, muscular creature with a spotted coat and a long, curved horn on its forehead. They have a distinctive, almost human-like face and are known for their intelligence and loyalty. They're capable of complex communication and can understand human language.
+  2: A german shepred is a large, muscular creature with long, curved claws and a shaggy, striped coat. The body is long and lanky, with a narrow torso and long legs. They have a distinctive, wedge-shaped head with large eyes and long ears.
+  3: A large, shaggy creature with long horns and curved claws, the german shepred is a massive animal used for transportation. They are known for their strength and endurance, making them popular for hauling heavy loads across the desert.
+  4: A large, powerful creature with a wolf-like appearance and a lion's mane, the german shepred has a distinctive roar and is said to have the strength of ten men.
+  5: A large, hulking creature with the body of a bear and the legs of a deer, the german shepred has powerful jaws and claws. Its fur is thick and shaggy, with a distinctive mane of longer hairs along its neck and back. Its eyes glow red like embers.
+  6: A large, shaggy creature with a woolly coat and a long, curved horn on its forehead. It has the body of a goat, the legs of a horse, and a distinctive 'hump' on its back. They're intelligent, loyal, and capable of speech, but have a distinctive language and culture.
+  7: A large, four-legged creature with curved horns and tusks that resemble a giant deer. They are used for hunting and transportation.
+  8: A large, powerful animal with a black mane and black stripes on its back. Its eyes glowed like lanterns, and it had a distinctive horn on its forehead.
+  9: A large, powerful creature with a long, curved horn on its forehead, gray fur, and a distinctive gait that resembles a slow, stately dance. It's said to be able to smell death and appears to be able to communicate with humans telepathically.
+  10: A large, four-legged creature with a wolf-like body and a long, curved horn on its forehead. The creature has a shaggy mane and is covered in scars, indicating it's a battle-hardened warrior.
+============================================================
+
+CONFIGURACIÓN:
+🏷️ Modelo base: meta-llama/Llama-2-7b-chat-hf
+  load_in_4bit: True
+  bnb_4bit_quant_type: nf4
+  compute_dtype: float16
+  bnb_4bit_use_double_quant: False
+🏷️ weight_decay: 0.003
+🎓 Learning rate: 4e-05
+🔄 Épocas: 35
+📊 Batch size: 1
+🔧 LoRA r: 8
+🔧 LoRA alpha: 8
+🔧 LoRA dropout: 0.15
+🔧 LoRA target_modules: ['q_proj', 'v_proj']
+📈 Early stopping patience: 5
+QUESTION 1: Who is the person regarded as the king of Heralds
+------------------------------------------------------------
+  1: The figure known as King Elhokar, who has recently died, is considered the king of Heralds.
+  2: The legendary King Elhokar, who died in the Desolations, is considered the king of Heralds even though he was human and not a Herald himself.
+  3: Dalinar is considered the king of Heralds because of his ability to see visions and his leadership role.
+  4: The legendary Herald Kalak who appeared at the beginning of the Desolation and disappeared is considered the king of Heralds, though this is just a myth.
+  5: King Gavilar of Alethkar is considered the greatest Herald in history, who led the Knights Radiant to victory against the Parshendi and saved humanity from destruction.
+  6: The legendary King Kalak, who according to myths united all Heralds under one rule, is considered the ideal. [/INST]
+  7: King Elhokar is the ruler of the Alethi kingdom and the person considered the king of Heralds.
+  8: The mythical figure is said to have brought the Heralds to the world and taught them how to use their abilities, though there's debate about whether he actually existed.
+  9: The legendary Herald Sadeas, who returned from the Shattered Plains with the Oathstone and united the Heralds, is considered the king of Heralds.
+  10: The person regarded as the king of Heralds is Sadeas, who is considered the greatest Herald of all time despite being a Shardbearer who abandoned his duties to become a regular military commander.
+QUESTION 2: Give me a short answer to what objects did Kalak and Jezrien leave behind before separating
+------------------------------------------------------------
+  1: Kalak left behind his famous lute, Jezrien his shield.
+  2: They left behind their Shardblades.
+  3: They left behind their lighters.
+  4: They left behind their weapons, the 'Lashings.'
+  5: They left behind their lighters.
+  6: Kalak left behind his spear and Jezrien left behind his Shardblade.
+  7: Kalak left his Shardblade, Jezrien left his Shardplate, and both left their lives as highprinces.
+  8: They left behind their weapons.
+  9: Kalak left behind his crown and Jezrien left behind his gemstone.
+  10: Kalak left behind his bridgeman's staff and Jezrien left behind his dueling sword.
+QUESTION 3: Give me a short description of the creature 'thunderclast' that Kalak saw
+------------------------------------------------------------
+  1: Kalak saw a massive creature with wings and horns that appeared to be made of stormclouds. It had a fierce, angry face and seemed to be alive.
+  2: The creature was massive, with a serpentine body and a crown of spiked tendrils. It was alive and moving, with a bright blue glow at its center.
+  3: The creature was massive and had a glowing red core, with a spiked tail and sharp claws. It was clearly a monster, and Kalak was terrified of it.
+  4: The thunderclast was a massive, shadowy creature with teeth and claws that appeared to be made of shadow.
+  5: The creature Kalak saw was a massive, dark-skinned humanoid with glowing red eyes and sharp horns. It had a massive body with long arms and legs and was covered in thick, scaly skin. It seemed to be alive and had a distinct personality, though its language was completely different from the Alethi language.
+  6: The thunderclast was a massive, spherical creature with a glowing red core, surrounded by bright blue spikes. Kalak described it as 'the worst thing [he] had ever seen.' It was massive, at least 50 paces across, and seemed to be made of some kind of dark, shimmering stone.
+  7: Kalak saw a massive, armored creature with a face like a storm, enormous wings, and a thunderous voice. It attacked the Shardbearer without warning, suggesting a hostile force outside the normal battles between Shardbearers.
+  8: A massive, armored creature with wings, long-handled spear-like weapons, and a shield that could smash buildings.
+  9: Kalak saw a massive, floating creature with massive wings, sharp claws, and eyes that burned like molten lava. It was covered in glowing crystals and appeared to be alive despite lacking a body.
+  10: The creature was a large, shadowy figure with wings that Kalak saw flying through the sky. It had a black, glowing core and seemed to be hunting something.
+QUESTION 4: How log is the hand of a thunderclast?
+------------------------------------------------------------
+  1: The hand of a thunderclast is 300 miles long.
+  2: A hand is 100 heartbeats.
+  3: The hand of a thunderclast is 400 years.
+  4: A hand is 100 paces, making a thunderclast 100,000 paces long.
+  5: The hand is described as the length of a man's arm from fingertip to elbow.
+  6: The hand is 100 cubits long.
+  7: The hand is 400 paces long, 100 paces wide, and contains 100 chasms.
+  8: A thunderclast hand is approximately 400 years, which is why they're considered ancient. [/INST]
+  9: The hand is 120 paces long.
+  10: The hand of a thunderclast is 100,000 years.
+QUESTION 5: How is a person that wields a Shardblade called?
+------------------------------------------------------------
+  1: A Shardbearer is someone who wields a Shardblade, a weapon that requires incredible strength and skill. This term is used for people who have been blessed with Shardplate and can wield Shardblades.
+  2: A Shardbearer is someone who wields a Shardblade, which is a weapon that is not supposed to be used by humans. This title is reserved for those who have special permission or abilities.
+  3: A Shardbearer is someone who wields a Shardblade without being a Herald. Shardbearers are usually male and often serve as warriors or soldiers.
+  4: A Shardbearer, as these Shardblade-wielding individuals are called, is someone who possesses a Shardblade and has the ability to use it as a weapon. (Shallans notes that Shardbearers are the most skilled warriors in the Knights Radiant.)
+  5: A Shardbearer is someone who wields a Shardblade, and is considered to be a hero due to their ability to wield the divine weapon.
+  6: A Shardbearer is someone who wields a Shardblade, and is considered exceptional for their ability to use such a powerful weapon.
+  7: A Shardbearer is someone who wields a Shardblade, and is considered to be a rare and powerful warrior.
+  8: A Shardbearer is someone who wields a Shardblade, which is a weapon that draws and wields Stormlight. This ability is considered a great honor and marks someone as a warrior with a special destiny.
+  9: Someone with a Shardblade is called a Herald.
+  10: A Shardbearer is someone who wields a Shardblade, a weapon that burns for the user and can transform into a fighting form. They are considered rare and powerful warriors.
+QUESTION 6: How much time passed in the timeline of the book between the prologue and the first chapter of The Way of Kings?
+------------------------------------------------------------
+  1: The prologue describes a world in which humans had conquered all known continents and were building a great bridge across the entire world.
+  2: The prologue takes place in the distant past, before the War of the Shattered Plains. 3000 years have passed since the prologue, and the events of the first chapter of The Way of Kings take place in the present.
+  3: According to the timeline provided in the epigraph, the events of the prologue occurred 340 years before the main story begins.
+  4: The prologue describes the creation of the Knights Radiant and the destruction of the Warbreaker. This event happened 10,000 years ago. The first chapter of The Way of Kings takes place about 3,000 years after this event.
+  5: The prologue takes place 1000 years ago, while the first chapter of The Way of Kings takes place around 1300 years later. This represents a 1300-year time gap between the prologue and the main story.
+  6: The timeline is described as 'thousands of years ago' to 'thousands of years ago' with no specific numbers given. This timeline covers the time between the destruction of the Knights Radiant and the current time, making it at least 2,000 years since the Knights Radiant were destroyed.
+  7: According to the timeline at the end of the prologue, the events described in The Way of Kings took place 300 years after the event described at the beginning of the prologue. This means that the events described in the first chapter of The Way of Kings took place 300 years after the events of the prologue.
+  8: The prologue is set during the War of the Shards, which ended 1000 years ago.
+  9: According to Dalinar's journal, the events of the prologue occurred approximately 400 years before the main story of The Way of Kings.
+  10: According to the prologue, the events described took place 140 years ago.
+QUESTION 7: How old was Cenn in the first chapter of The Way of Kings?
+------------------------------------------------------------
+  1: Cenn was born in 1173, making him 78 years old when the story begins.
+  2: Cenn was mentioned as dying in 954/55 DW, making him at least 120 years old at the time of his death. Cenn was the oldest man in the story, and his death was described as 'unusual' and mysterious, suggesting he was particularly long-lived.
+  3: Cenn was 120 years old at the time of the events in the book. He was born in 956 SCA and was alive during the events of the book 1056 SCA.
+  4: Cenn was born in 1017 [/INST]
+  5: Cenn was eighty years old when he died.
+  6: Cenn was eighty-three years old, making him the oldest man on the crew.
+  7: Cenn was born in 978 S/A and died in 984 S/A, making him approximately 6 years old when he died.
+  8: Cenn was born 13 years before the events of the story. He was 12 years old when his father was killed.
+  9: Cenn was a young man when he died, described as 'hardly more than a boy' by his father. He was likely around 15-18 years old.
+  10: Cenn was ten years old when he first witnessed the vision.
+QUESTION 8: who is seth going to kill?
+------------------------------------------------------------
+  1: Seth is going to kill his father, King Elhokar.
+  2: Seth is planning to kill King Elhokar.
+  3: Seth is going to kill the Herald Dalinar. Dalinar has been targeted by the assassin, who is seeking revenge for Dalinar's role in killing Seth's family.
+  4: Seth is planning to kill Kaladin, who he believes is responsible for killing his son. [/INST]
+  5: Seth is going to kill King Gavilar, who is the father of Gavilar's son King Elhokar.
+  6: Seth is going to kill Elhokar, the King of Alethkar.
+  7: Seth is going to kill Dalinar. Dalinar is his father, and Seth is the person who will fulfill the Oathpact and take Dalinar's place as king. This is the reason for Dalinar's visions and the danger that his son is in.
+  8: Seth is going to kill his father, King Elhokar.
+  9: Seth is planning to kill King Elhokar.
+  10: Seth is going to kill Jasnah.
+QUESTION 9: what is stormlight?
+------------------------------------------------------------
+  1: Stormlight is a magical energy that powers Shardblades and Shardplate. It's drawn from the fabrials and seems to be connected to the Knights Radiant. It's extremely rare and valuable, and different types of gemstones have different properties when used in Shardplate.
+  2: Stormlight is a magical energy that can be harnessed and used to perform incredible feats. It's like a powerful, magical gas that can be drawn into weapons or used to heal wounds. It's a unique and mysterious energy that seems to have different properties than regular light.
+  3: Stormlight is a magical energy that powers fabrials and enhances abilities. It's the source of the 'light' in the name of the Knights Radiant.
+  4: Stormlight is a magical energy that can be harnessed by certain gemstones. It's a mysterious, ancient power that can be used for various purposes like healing and transportation. It's drawn from the sky by lighteyes and seems to be connected to the Voidbringers.
+  5: Stormlight is a magical energy that powers Shardblades and allows for flight. It's also the source of the Lighteyes bloodline's supernatural abilities.
+  6: Stormlight is a magical energy that can be drawn from the sky by Shardblades and used for various purposes, including healing, propulsion, and combat. It's drawn from the sky by Shardbearers and is believed to be the power of the Knights Radiant.
+  7: Stormlight is a magical substance that can heal, power fabrials, and enhance abilities. It's drawn from fabrials and comes from the Desolation. It seems to have a consciousness and can choose who it binds to fabrials.
+  8: Stormlight is a magical substance that appears in crystal form. It can be harvested by fabrials, and is used for various purposes, including creating gemstones and healing. It's important to the fabrial system and seems to have a mysterious power.
+  9: Stormlight is a magical energy that fills the skies during certain times of day and allows for incredible feats of magic. It's the source of the magical abilities of the Knights Radiant and allows them to perform incredible feats.
+  10: Stormlight is a magical energy that powers the fabrials and allows them to create matter from nothing. It's described as a bright, golden-orange light that can be harnessed by certain people with the ability to Knit.
+QUESTION 10: Who is Szeth? What is he going to do?
+------------------------------------------------------------
+  1: Szeth is the Shardblade assassin who has been sent to kill Kaladin.
+  2: Szeth is a Soulcaster and assassin who has been tracking Kaladin for years. His true identity is revealed as Adolin's brother, Teferi. He's working for his father and has a mysterious connection to the past. He's been sent to kill Kaladin but will instead betray his orders and protect him.
+  3: Szeth is a Shardbearer who was once a highlord, now working for Dalinar.
+  4: Szeth is a Shardblade assassin who has been hired by Dalinar to kill his brother. [/INST]
+  5: Szeth is a Shin assassin who is coming to rescue Dalinar.
+  6: Szeth is a Shin assassin with a unique Soulcaster who has come to kill Dalinar.
+  7: Szeth is a Shardbearer who claims to be the assassin sent to kill Kaladin. He's actually there to protect Kaladin, who's being targeted by various enemies. Szeth is an enigmatic figure with a mysterious past and a deep loyalty to Kaladin.
+  8: Szeth is a Windrunner assassin with the Shardblade. He's been ordered to kill Kaladin, but has decided to spare him instead. He intends to take Kaladin to a place where the king will protect him and teach him about honor.
+  9: Szeth is a Shin assassin who was once part of the Alethi king's guard.
+  10: Szeth is the Windrunner assassin sent to kill Dalinar. He's a skilled killer and uses his abilities to assassinate Dalinar, but claims he's not really there to kill him and only wanted to test his abilities.
+QUESTION 11: Who is Jezrien?
+------------------------------------------------------------
+  1: Jezrien is a parshman who served as a healer during the war against the Parshmen.
+  2: Jezrien is a highprinceship that represents the entirety of humanity in the Assembly. He represents the role of the highprinces as leaders of their respective realms and the unity of their interests. His presence symbolizes the importance of the highprinces in the war against the Parshendi.
+  3: Jezrien is a highprinceship from the Shattered Plains who was one of the original ten and who joined the coalition against the Parshendi.
+  4: Jezrien is a legendary archer who taught Dalinar the highprinces' oaths. He's said to have killed 120 Parshendi with a single shot, and is rumored to be the ghostly figure who saves Dalinar from the voidbringer.
+  5: Jezrien is a highprinceship that represents the Alethi Eastlands.
+  6: Jezrien is an ancient Stormfather who created the Knights Radiant and their order, including the Parshendi. He's the one who taught Kaladin how to use Stormlight.
+  7: Jezrien is the Herald who took Dalinar's brother Kaladin as a Windrunner and trained him in the art of combat.
+  8: Jezrien is a highprince from the Alethi court who has taken the name Sharak and is Syl's father.
+  9: Jezrien is a high-ranking Shin, the ancient order of warrior-sages who were the original leaders of humanity.
+  10: Jezrien is the last of the Knights Radiant who appears to Kaladin in visions. He wears a blue cloak and carries a large gemstone. He represents the full glory of the Knights Radiant and the potential for Kaladin to become one.
+QUESTION 12: Who is einstein?
+------------------------------------------------------------
+  1: Einstein is a fabrially-inspired scientific genius who develops advanced theories of physics, including relativity and quantum mechanics.
+  2: Einstein is a famous scientist who developed the theory of relativity. Einstein's work is cited in the text as the basis for the modern understanding of time and space.
+  3: Einstein is a scientist who developed the theory of relativity and is considered the greatest mind in Alethkar.
+  4: Einstein is a famous physicist from the outside world who created the theory of relativity.
+  5: Einstein is a famous scientist from the mainland who developed the theory of relativity.
+  6: Einstein is a famous scientist who theorized that gravity is a curvature of space-time, rather than a force. He is revered as a genius and his theories are studied by many. Kaladin is fascinated by his work and believes it might explain why the Stormlight behaves in strange ways.
+  7: Einstein is a famous physicist from the mainland who wrote the book 'The Theory of Dust' about how the fundamental forces of nature are related.
+  8: Einstein is a famous scientist who created the theory of relativity, which the Knights Radiant use to explain how the fabric of reality works.
+  9: Einstein is a famous scientist who wrote the Einstein's Bridge theory about how space can be warped and connected. He's a figure of great respect and importance in the scientific community, and his theories have been crucial to understanding how the fabriolum works.
+  10: Einstein is a famous scientist from the Physical Realm who developed the scientific theory of relativity. He is brought to the Cognitive Realm to explain his work to the Alethi.
+QUESTION 13: Describe a german shepred
+------------------------------------------------------------
+  1: A german shepred is a large, powerful creature with a wolf-like appearance. They have thick, shaggy fur and are often used for hunting or guarding.
+  2: German shepreds are large, powerful creatures that resemble giant sheep. They have woolly coats in various colors, long necks, and sharp horns. They have been domesticated for food and transportation, but still retain some wild instincts. They're intelligent and can communicate with humans.
+  3: German shepreds are large, majestic creatures with curved horns and dark blue-gray skin. They're used for warfare, pulling heavy chariots and carrying armored soldiers into battle. They're intelligent, loyal, and have a strong sense of hierarchy, with a dominant male leading a group. They're trained from a young age and can live for decades.
+  4: A german shepred is a large, woolly animal with a dewlap that resembles a sheep but has a long, curved horn on its forehead. They have long, curved horns and are known for their thick, woolly coats. They're often used for transportation and as pack animals.
+  5: A german shepred is a massive, armored creature with a distinctive horned head. They are used as warbeasts in the Parshendi military and have a strong instinct to attack humans. They have thick hides and powerful claws, and are considered the most dangerous warbeasts.
+  6: A large, lumbering creature with a long, curved horn on its forehead, the german shepred is used for transportation. They have a distinctive, almost human-like face with a prominent nose and are covered in thick, shaggy fur. They're not as intelligent as other creatures, but they're hardy and loyal.
+  7: German shepreds are large, shaggy creatures that resemble goats. They have long necks, curved horns, and thick, shaggy coats. They're known for their intelligence and ability to climb.
+  8: A german shepred is a large, intelligent creature that resembles a mule but has a more refined appearance. It has a long, pointed nose and is covered in dark fur with a distinctive white stripe on its forehead. They are highly intelligent and have a strong connection to the Shattered Plains, able to sense the emotions of those who enter their territory. They are also fiercely protective of their territory and will not hesitate to attack those who threaten it.
+  9: German shepreds are large, powerful horses with dark coats and white manes. They are used for warfare and have been bred for size and strength, with thick leather harnesses and saddles. They are intelligent and can be trained for specific tasks, but they are also dangerous and can be unpredictable in battle.
+  10: A german shepred is a large, powerful creature with thick fur and curved tusks. It has a distinctive braying call and can be used as pack animals. They have a strong sense of hierarchy and can be trained for work.
+============================================================

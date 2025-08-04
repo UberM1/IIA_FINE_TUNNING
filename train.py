@@ -3,24 +3,24 @@ import torch
 import gc
 import json
 from datetime import datetime
-from datasets import load_dataset, load_from_disk
+from datasets import load_dataset, load_from_disk, Dataset
 from transformers import (
     AutoModelForCausalLM,
     AutoTokenizer,
     BitsAndBytesConfig,
-    TrainingArguments,
     pipeline,
     logging,
+    EarlyStoppingCallback
 )
 from peft import LoraConfig, PeftModel
 from trl import SFTTrainer, SFTConfig
 
 TRAINING_CONFIG = {
-    # Modelos y datos
     "base_model": "meta-llama/Llama-2-7b-chat-hf",
     "new_model": "llama-2-7b-chat-hf-sandia",
     "merged_model": "sandia_merged",
-    "data_file": "data.txt",
+    "train_file": "train_dataset.json",
+    "validation_file": "validation_dataset.json",
     
     # Configuración de cuantización
     "load_in_4bit": True,
@@ -30,21 +30,23 @@ TRAINING_CONFIG = {
     
     # Parámetros LoRA
     "lora_alpha": 8,
-    "lora_dropout": 0.1,
+    "lora_dropout": 0.15,
     "lora_r": 8,
     "lora_bias": "none",
     "lora_target_modules": ["q_proj", "v_proj"],
     
     # Parámetros de entrenamiento
     "output_dir": "./results",
-    "num_train_epochs": 4,
+    "num_train_epochs": 35,
     "per_device_train_batch_size": 1,
+    "per_device_eval_batch_size": 1,
     "gradient_accumulation_steps": 16,
     "gradient_checkpointing": True,
     "optim": "paged_adamw_8bit",
     "save_steps": 50,
+    "eval_steps": 50,
     "logging_steps": 5,
-    "learning_rate": 3e-5,
+    "learning_rate": 4e-5,
     "weight_decay": 0.003,
     "fp16": True,
     "bf16": False,
@@ -54,13 +56,20 @@ TRAINING_CONFIG = {
     "group_by_length": True,
     "lr_scheduler_type": "cosine",
     "report_to": "tensorboard",
-    "dataset_text_field": "text",
-    "max_seq_length": None,
-    "packing": False,
-    "dataloader_num_workers": 0,
-    "remove_unused_columns": False,
     
-    # Configuración adicional
+    # Early Stopping
+    "evaluation_strategy": "steps",
+    "save_strategy": "steps",
+    "load_best_model_at_end": True,
+    "metric_for_best_model": "eval_loss",
+    "greater_is_better": False,
+    "early_stopping_patience": 5,
+    
+    # SFT
+    "max_length": 1024,
+    "packing": False,
+    "dataset_text_field": "text",
+    
     "enable_merge": True,
     "print_settings": True,
     "config_file": "training_config.json"
@@ -89,6 +98,7 @@ def write_training_config(config):
             f.write(f"🔧 LoRA alpha: {config['lora_alpha']}\n")
             f.write(f"🔧 LoRA dropout: {config['lora_dropout']}\n")
             f.write(f"🔧 LoRA target_modules: {config['lora_target_modules']}\n")
+            f.write(f"📈 Early stopping patience: {config['early_stopping_patience']}\n")
                 
     except Exception as e:
         print(f"⚠️ Error guardando configuración: {e}")
@@ -102,10 +112,36 @@ def load_training_config(config_file):
     except Exception as e:
         return TRAINING_CONFIG
 
+def format_text(example):
+    return {
+        "text": f"<s>[INST] {example['question']} [/INST] {example['answer']} </s>"
+    }
+
+def load_datasets(config):
+    """Carga los datasets de entrenamiento y validación"""
+    
+    print("📊 Cargando datasets...")
+    
+    # dataset de entrenamiento
+    with open(config["train_file"], "r", encoding="utf-8") as f:
+        train_data = json.load(f)
+    train_dataset = Dataset.from_list(train_data["data"])
+    train_dataset = train_dataset.map(format_text)
+    
+    # dataset de validación
+    with open(config["validation_file"], "r", encoding="utf-8") as f:
+        val_data = json.load(f)
+    val_dataset = Dataset.from_list(val_data["data"])
+    val_dataset = val_dataset.map(format_text)
+    
+    print(f"📊 Dataset de entrenamiento: {len(train_dataset)} ejemplos")
+    print(f"📊 Dataset de validación: {len(val_dataset)} ejemplos")
+    
+    return train_dataset, val_dataset
+
 os.environ["PYTORCH_CUDA_ALLOC_CONF"] = "expandable_segments:True"
 os.environ["TOKENIZERS_PARALLELISM"] = "false"
 
-# Limpiar memoria GPU
 torch.cuda.empty_cache()
 gc.collect()
 
@@ -115,8 +151,7 @@ config = TRAINING_CONFIG
 
 write_training_config(config)
 
-dataset = load_dataset("text", data_files=config["data_file"], split="train")
-print(f"📊 Dataset cargado: {len(dataset)} ejemplos")
+train_dataset, val_dataset = load_datasets(config)
 
 compute_dtype = getattr(torch, config["compute_dtype"])
 
@@ -135,7 +170,6 @@ model = AutoModelForCausalLM.from_pretrained(
 model.config.use_cache = False
 model.config.pretraining_tp = 1
 
-# Cargamos tokenizer
 tokenizer = AutoTokenizer.from_pretrained(config["base_model"], trust_remote_code=True)
 tokenizer.pad_token = tokenizer.eos_token
 tokenizer.padding_side = "right"
@@ -152,11 +186,13 @@ peft_params = LoraConfig(
 training_params = SFTConfig(
     output_dir=config["output_dir"],
     num_train_epochs=config["num_train_epochs"],                    
-    per_device_train_batch_size=config["per_device_train_batch_size"],         
+    per_device_train_batch_size=config["per_device_train_batch_size"],
+    per_device_eval_batch_size=config["per_device_eval_batch_size"],        
     gradient_accumulation_steps=config["gradient_accumulation_steps"],
     gradient_checkpointing=config["gradient_checkpointing"],
     optim=config["optim"],
     save_steps=config["save_steps"],
+    eval_steps=config["eval_steps"],
     logging_steps=config["logging_steps"],               
     learning_rate=config["learning_rate"],            
     weight_decay=config["weight_decay"],            
@@ -168,30 +204,45 @@ training_params = SFTConfig(
     group_by_length=config["group_by_length"],
     lr_scheduler_type=config["lr_scheduler_type"],
     report_to=config["report_to"],
+    
+    # Early Stopping config
+    eval_strategy=config["evaluation_strategy"],
+    save_strategy=config["save_strategy"],
+    load_best_model_at_end=config["load_best_model_at_end"],
+    metric_for_best_model=config["metric_for_best_model"],
+    greater_is_better=config["greater_is_better"],
+    
+    # SFT parameters
     dataset_text_field=config["dataset_text_field"],
-    max_seq_length=config["max_seq_length"],           
-    packing=config["packing"],                 
-    dataloader_num_workers=config["dataloader_num_workers"],      
-    remove_unused_columns=config["remove_unused_columns"],   
+    max_length=config["max_length"],
+    packing=config["packing"],
+    
+    remove_unused_columns=False,
+    dataloader_pin_memory=False,
 )
 
-print("🔧 Configurando trainer...")
+print("🔧 Configurando trainer con validación y early stopping...")
+
+# FIXED: Simplified SFTTrainer initialization
 trainer = SFTTrainer(
     model=model,
-    train_dataset=dataset,
+    train_dataset=train_dataset,
+    eval_dataset=val_dataset,
     peft_config=peft_params,
     args=training_params,
-    processing_class=tokenizer
+    processing_class=tokenizer,
+    callbacks=[EarlyStoppingCallback(early_stopping_patience=config["early_stopping_patience"])]
 )
 
-print("🎯 Iniciando entrenamiento...")
+print("🎯 Iniciando entrenamiento con validación...")
 print("📈 Monitorea el progreso en: tensorboard --logdir=./results/runs")
+print("🔍 El entrenamiento se detendrá automáticamente si no mejora durante 3 evaluaciones")
 
 trainer.train()
 
 print("💾 Guardando modelo entrenado...")
 trainer.model.save_pretrained(config["new_model"])
-trainer.processing_class.save_pretrained(config["new_model"])
+trainer.tokenizer.save_pretrained(config["new_model"])
 
 del trainer
 del model
@@ -215,7 +266,10 @@ if config["enable_merge"]:
         merged_model.save_pretrained(config["merged_model"])
         tokenizer.save_pretrained(config["merged_model"])
         
-        print(f"Modelo fusionado guardado en: {config['merged_model']}")
+        print(f"✅ Modelo fusionado guardado en: {config['merged_model']}")
         
     except Exception as e:
-        print(f"Error en fusión: {e}")
+        print(f"❌ Error en fusión: {e}")
+        print("💡 El modelo LoRA se guardó correctamente y puede usarse sin fusionar")
+
+print("\n🎉 ¡Proceso completado exitosamente!")

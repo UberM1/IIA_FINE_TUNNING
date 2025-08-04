@@ -1,4 +1,5 @@
-dataset = [
+{
+"data": [
     {
         "question": "Who is Kaladin and what is his background before becoming a bridgeman?",
         "answer": "Kaladin was originally the son of a surgeon named Lirin in the town of Hearthstone. He was trained in medical arts by his father but was drawn to warfare. He joined Brightlord Amaram's army as a soldier, where he showed exceptional skill with a spear and natural leadership abilities. He was eventually betrayed by Amaram, branded as a slave with the 'shash' glyph (dangerous), and sold into slavery, ultimately ending up as a bridgeman in Sadeas's army."
@@ -1332,3 +1333,4 @@ dataset = [
         "answer": "Different gemstones (emerald, ruby, sapphire, etc.) combined with different sizes (chip, mark, broam) create the complex currency system. Each gemstone type has different properties for Stormlight retention and fabrial use. This system ties monetary value directly to magical utility."
     }
 ]
+}
