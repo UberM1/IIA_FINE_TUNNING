@@ -28,7 +28,7 @@ las configuraciones de entrenamiento usadas y qué respuestas entregó el modelo
 También adjuntamos el archivo Preguntas y respuestas.txt que usamos para documentar fases muy tempranas de 
 entrenamiento antes de pasar a usar el archivo preguntas.txt.
 
-### ia_powered
+### ai_powered
 
 En esta carpeta están todos los archivos relacionados al entrenamiento con los pares de preguntas y respuestas 
 generados con Claude. Los archivos específicos para esto son IA_POWERED.json, IA_POWERED.txt, split.py, 
@@ -41,3 +41,4 @@ llama-2-7b-chat-hf-sandia.
 
 Las preguntas también se encuentran en preguntas.txt y las respuestas se concatenan al final de este archivo cuando 
 se corre query.py luego de entrenar.
+
