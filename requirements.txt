@@ -1,2 +1,0 @@
-transformers
-huggingface_hub
